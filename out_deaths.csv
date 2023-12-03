@@ -1,687 +1,687 @@
-,MSA,Year,Population,Overdose Deaths,Unintentional Overdose Deaths,Alcohol-Induced Deaths
-0,"Atlanta-Sandy Springs-Alpharetta, GA MSA",2007,1550291.0,155.0,26.0,57.0
-1,"Atlanta-Sandy Springs-Alpharetta, GA MSA",2008,1574340.0,171.0,31.0,66.0
-2,"Atlanta-Sandy Springs-Alpharetta, GA MSA",2009,1596169.0,133.0,40.0,40.0
-3,"Atlanta-Sandy Springs-Alpharetta, GA MSA",2010,1612474.0,166.0,46.0,107.0
-4,"Atlanta-Sandy Springs-Alpharetta, GA MSA",2011,1649492.0,156.0,61.0,96.0
-5,"Atlanta-Sandy Springs-Alpharetta, GA MSA",2012,1684862.0,154.0,50.0,58.0
-6,"Atlanta-Sandy Springs-Alpharetta, GA MSA",2013,1697633.0,167.0,49.0,81.0
-7,"Atlanta-Sandy Springs-Alpharetta, GA MSA",2014,1718480.0,208.0,31.0,69.0
-8,"Atlanta-Sandy Springs-Alpharetta, GA MSA",2015,1745433.0,236.0,89.0,72.0
-9,"Atlanta-Sandy Springs-Alpharetta, GA MSA",2016,1763657.0,260.0,87.0,53.0
-10,"Atlanta-Sandy Springs-Alpharetta, GA MSA",2017,1794676.0,260.0,215.0,147.0
-11,"Atlanta-Sandy Springs-Alpharetta, GA MSA",2018,1806672.0,281.0,229.0,160.0
-12,"Atlanta-Sandy Springs-Alpharetta, GA MSA",2019,1823234.0,271.0,225.0,151.0
-13,"Atlanta-Sandy Springs-Alpharetta, GA MSA",2020,1839411.0,339.0,290.0,224.0
-14,"Austin-Round Rock-Georgetown, TX MSA",2007,955399.0,111.0,10.0,20.0
-15,"Austin-Round Rock-Georgetown, TX MSA",2008,980699.0,82.0,13.0,23.0
-16,"Austin-Round Rock-Georgetown, TX MSA",2009,1006503.0,120.0,95.0,77.0
-17,"Austin-Round Rock-Georgetown, TX MSA",2010,1024266.0,122.0,98.0,84.0
-18,"Austin-Round Rock-Georgetown, TX MSA",2011,1063130.0,155.0,136.0,69.0
-19,"Austin-Round Rock-Georgetown, TX MSA",2012,1095584.0,158.0,140.0,13.0
-20,"Austin-Round Rock-Georgetown, TX MSA",2013,1120954.0,158.0,10.0,14.0
-21,"Austin-Round Rock-Georgetown, TX MSA",2014,1151145.0,134.0,16.0,16.0
-22,"Austin-Round Rock-Georgetown, TX MSA",2015,1176558.0,139.0,12.0,11.0
-23,"Austin-Round Rock-Georgetown, TX MSA",2016,1199323.0,149.0,125.0,14.0
-24,"Austin-Round Rock-Georgetown, TX MSA",2017,1226698.0,148.0,125.0,13.0
-25,"Austin-Round Rock-Georgetown, TX MSA",2018,1248743.0,163.0,15.0,20.0
-26,"Austin-Round Rock-Georgetown, TX MSA",2019,1273954.0,170.0,148.0,119.0
-27,"Austin-Round Rock-Georgetown, TX MSA",2020,1300503.0,221.0,193.0,167.0
-28,"Baltimore-Columbia-Towson, MD MSA",2007,1470222.0,309.0,21.0,82.0
-29,"Baltimore-Columbia-Towson, MD MSA",2008,1470351.0,225.0,36.0,96.0
-30,"Baltimore-Columbia-Towson, MD MSA",2009,1476670.0,278.0,35.0,78.0
-31,"Baltimore-Columbia-Towson, MD MSA",2010,1484381.0,206.0,37.0,81.0
-32,"Baltimore-Columbia-Towson, MD MSA",2011,1490726.0,196.0,42.0,77.0
-33,"Baltimore-Columbia-Towson, MD MSA",2012,1502480.0,255.0,72.0,80.0
-34,"Baltimore-Columbia-Towson, MD MSA",2013,1512185.0,264.0,70.0,78.0
-35,"Baltimore-Columbia-Towson, MD MSA",2014,1527223.0,342.0,67.0,78.0
-36,"Baltimore-Columbia-Towson, MD MSA",2015,1531384.0,406.0,122.0,88.0
-37,"Baltimore-Columbia-Towson, MD MSA",2016,1522713.0,656.0,149.0,95.0
-38,"Baltimore-Columbia-Towson, MD MSA",2017,1524404.0,732.0,190.0,104.0
-39,"Baltimore-Columbia-Towson, MD MSA",2018,1511803.0,834.0,235.0,116.0
-40,"Baltimore-Columbia-Towson, MD MSA",2019,1502817.0,899.0,224.0,141.0
-41,"Baltimore-Columbia-Towson, MD MSA",2020,1495743.0,1076.0,394.0,162.0
-42,"Birmingham-Hoover, AL MSA",2007,918002.0,147.0,36.0,56.0
-43,"Birmingham-Hoover, AL MSA",2008,926267.0,150.0,102.0,70.0
-44,"Birmingham-Hoover, AL MSA",2009,934158.0,178.0,42.0,49.0
-45,"Birmingham-Hoover, AL MSA",2010,937144.0,119.0,41.0,53.0
-46,"Birmingham-Hoover, AL MSA",2011,941265.0,167.0,41.0,40.0
-47,"Birmingham-Hoover, AL MSA",2012,946187.0,166.0,101.0,23.0
-48,"Birmingham-Hoover, AL MSA",2013,949967.0,186.0,45.0,24.0
-49,"Birmingham-Hoover, AL MSA",2014,954145.0,297.0,62.0,41.0
-50,"Birmingham-Hoover, AL MSA",2015,956154.0,253.0,43.0,25.0
-51,"Birmingham-Hoover, AL MSA",2016,958162.0,331.0,53.0,45.0
-52,"Birmingham-Hoover, AL MSA",2017,961001.0,341.0,240.0,74.0
-53,"Birmingham-Hoover, AL MSA",2018,963697.0,322.0,215.0,107.0
-54,"Birmingham-Hoover, AL MSA",2019,965787.0,330.0,234.0,100.0
-55,"Birmingham-Hoover, AL MSA",2020,967509.0,443.0,329.0,119.0
-56,"Boston-Cambridge-Newton, MA-NH MSA",2007,693368.0,152.0,208.0,44.0
-57,"Boston-Cambridge-Newton, MA-NH MSA",2008,702201.0,112.0,223.0,90.0
-58,"Boston-Cambridge-Newton, MA-NH MSA",2009,716214.0,147.0,42.0,18.0
-59,"Boston-Cambridge-Newton, MA-NH MSA",2010,722023.0,103.0,31.0,24.0
-60,"Boston-Cambridge-Newton, MA-NH MSA",2011,730932.0,129.0,309.0,129.0
-61,"Boston-Cambridge-Newton, MA-NH MSA",2012,744426.0,114.0,313.0,176.0
-62,"Boston-Cambridge-Newton, MA-NH MSA",2013,755503.0,147.0,162.0,55.0
-63,"Boston-Cambridge-Newton, MA-NH MSA",2014,767254.0,146.0,177.0,59.0
-64,"Boston-Cambridge-Newton, MA-NH MSA",2015,778121.0,201.0,132.0,52.0
-65,"Boston-Cambridge-Newton, MA-NH MSA",2016,784230.0,284.0,162.0,84.0
-66,"Boston-Cambridge-Newton, MA-NH MSA",2017,797939.0,293.0,174.0,47.0
-67,"Boston-Cambridge-Newton, MA-NH MSA",2018,807252.0,257.0,186.0,102.0
-68,"Boston-Cambridge-Newton, MA-NH MSA",2019,803907.0,261.0,237.0,75.0
-69,"Boston-Cambridge-Newton, MA-NH MSA",2020,801582.0,329.0,302.0,86.0
-70,"Buffalo-Cheektowaga, NY MSA",2007,1137678.0,107.0,95.0,78.0
-71,"Buffalo-Cheektowaga, NY MSA",2008,1136364.0,124.0,28.0,67.0
-72,"Buffalo-Cheektowaga, NY MSA",2009,1195309.0,117.0,274.0,92.0
-73,"Buffalo-Cheektowaga, NY MSA",2010,1135509.0,114.0,23.0,109.0
-74,"Buffalo-Cheektowaga, NY MSA",2011,1134039.0,140.0,211.0,80.0
-75,"Buffalo-Cheektowaga, NY MSA",2012,1134210.0,130.0,269.0,130.0
-76,"Buffalo-Cheektowaga, NY MSA",2013,1134115.0,181.0,228.0,85.0
-77,"Buffalo-Cheektowaga, NY MSA",2014,1136360.0,191.0,187.0,99.0
-78,"Buffalo-Cheektowaga, NY MSA",2015,1194167.0,356.0,285.0,93.0
-79,"Buffalo-Cheektowaga, NY MSA",2016,1191286.0,377.0,354.0,121.0
-80,"Buffalo-Cheektowaga, NY MSA",2017,1194812.0,356.0,384.0,271.0
-81,"Buffalo-Cheektowaga, NY MSA",2018,1187663.0,305.0,498.0,348.0
-82,"Buffalo-Cheektowaga, NY MSA",2019,1225122.0,272.0,216.0,144.0
-83,"Buffalo-Cheektowaga, NY MSA",2020,1182631.0,397.0,356.0,180.0
-84,"Charlotte-Concord-Gastonia, NC-SC MSA",2007,1234217.0,133.0,94.0,113.0
-85,"Charlotte-Concord-Gastonia, NC-SC MSA",2008,1266743.0,148.0,90.0,130.0
-86,"Charlotte-Concord-Gastonia, NC-SC MSA",2009,1290372.0,149.0,116.0,75.0
-87,"Charlotte-Concord-Gastonia, NC-SC MSA",2010,1223792.0,134.0,65.0,84.0
-88,"Charlotte-Concord-Gastonia, NC-SC MSA",2011,1327825.0,152.0,99.0,107.0
-89,"Charlotte-Concord-Gastonia, NC-SC MSA",2012,1353867.0,176.0,206.0,57.0
-90,"Charlotte-Concord-Gastonia, NC-SC MSA",2013,1377184.0,153.0,107.0,96.0
-91,"Charlotte-Concord-Gastonia, NC-SC MSA",2014,1400571.0,189.0,128.0,93.0
-92,"Charlotte-Concord-Gastonia, NC-SC MSA",2015,1344391.0,188.0,214.0,142.0
-93,"Charlotte-Concord-Gastonia, NC-SC MSA",2016,1450112.0,282.0,316.0,144.0
-94,"Charlotte-Concord-Gastonia, NC-SC MSA",2017,1476756.0,285.0,228.0,162.0
-95,"Charlotte-Concord-Gastonia, NC-SC MSA",2018,1498162.0,291.0,234.0,184.0
-96,"Charlotte-Concord-Gastonia, NC-SC MSA",2019,1518943.0,272.0,239.0,139.0
-97,"Charlotte-Concord-Gastonia, NC-SC MSA",2020,1542645.0,347.0,314.0,182.0
-98,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2007,8219573.0,794.0,1458.0,545.0
-99,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2008,8252073.0,859.0,2020.0,729.0
-100,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2009,8289812.0,854.0,706.0,475.0
-101,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2010,8316650.0,814.0,616.0,440.0
-102,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2011,8357284.0,865.0,647.0,489.0
-103,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2012,8374608.0,1007.0,730.0,498.0
-104,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2013,8389726.0,966.0,712.0,459.0
-105,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2014,8404358.0,984.0,726.0,485.0
-106,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2015,8401315.0,1088.0,882.0,575.0
-107,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2016,8364162.0,1609.0,1396.0,701.0
-108,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2017,8381361.0,1829.0,1688.0,258.0
-109,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2018,8345010.0,1761.0,1609.0,673.0
-110,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2019,8300609.0,1884.0,1748.0,670.0
-111,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2020,8244982.0,2501.0,2353.0,924.0
-112,"Cincinnati, OH-KY-IN MSA",2007,801815.0,118.0,547.0,133.0
-113,"Cincinnati, OH-KY-IN MSA",2008,799840.0,133.0,804.0,171.0
-114,"Cincinnati, OH-KY-IN MSA",2009,802149.0,91.0,19.0,12.0
-115,"Cincinnati, OH-KY-IN MSA",2010,802374.0,132.0,14.0,10.0
-116,"Cincinnati, OH-KY-IN MSA",2011,800362.0,185.0,19.0,14.0
-117,"Cincinnati, OH-KY-IN MSA",2012,802038.0,186.0,29.0,12.0
-118,"Cincinnati, OH-KY-IN MSA",2013,804520.0,246.0,20.0,13.0
-119,"Cincinnati, OH-KY-IN MSA",2014,806631.0,264.0,10.0,10.0
-120,"Cincinnati, OH-KY-IN MSA",2015,807598.0,363.0,40.0,15.0
-121,"Cincinnati, OH-KY-IN MSA",2016,809099.0,342.0,43.0,19.0
-122,"Cincinnati, OH-KY-IN MSA",2017,813822.0,468.0,10.0,80.0
-123,"Cincinnati, OH-KY-IN MSA",2018,816684.0,386.0,15.0,81.0
-124,"Cincinnati, OH-KY-IN MSA",2019,817473.0,382.0,353.0,61.0
-125,"Cincinnati, OH-KY-IN MSA",2020,817985.0,388.0,366.0,102.0
-126,"Cleveland-Elyria, OH MSA",2007,1301540.0,163.0,56.0,24.0
-127,"Cleveland-Elyria, OH MSA",2008,1291479.0,183.0,55.0,29.0
-128,"Cleveland-Elyria, OH MSA",2009,1285082.0,146.0,81.0,13.0
-129,"Cleveland-Elyria, OH MSA",2010,1280122.0,191.0,76.0,27.0
-130,"Cleveland-Elyria, OH MSA",2011,1270294.0,238.0,18.0,121.0
-131,"Cleveland-Elyria, OH MSA",2012,1265111.0,252.0,23.0,141.0
-132,"Cleveland-Elyria, OH MSA",2013,1263154.0,286.0,40.0,113.0
-133,"Cleveland-Elyria, OH MSA",2014,1259828.0,290.0,46.0,15.0
-134,"Cleveland-Elyria, OH MSA",2015,1255921.0,306.0,18.0,134.0
-135,"Cleveland-Elyria, OH MSA",2016,1249352.0,576.0,14.0,137.0
-136,"Cleveland-Elyria, OH MSA",2017,1248514.0,630.0,11.0,168.0
-137,"Cleveland-Elyria, OH MSA",2018,1243857.0,478.0,16.0,142.0
-138,"Cleveland-Elyria, OH MSA",2019,1235072.0,505.0,476.0,164.0
-139,"Cleveland-Elyria, OH MSA",2020,1227883.0,511.0,489.0,197.0
-140,"Columbus, OH MSA",2007,1127174.0,216.0,10.0,13.0
-141,"Columbus, OH MSA",2008,1141183.0,205.0,19.0,13.0
-142,"Columbus, OH MSA",2009,1155408.0,135.0,28.0,12.0
-143,"Columbus, OH MSA",2010,1163414.0,242.0,10.0,10.0
-144,"Columbus, OH MSA",2011,1178799.0,250.0,26.0,14.0
-145,"Columbus, OH MSA",2012,1195537.0,242.0,29.0,18.0
-146,"Columbus, OH MSA",2013,1212263.0,228.0,16.0,13.0
-147,"Columbus, OH MSA",2014,1231393.0,238.0,34.0,11.0
-148,"Columbus, OH MSA",2015,1251722.0,322.0,28.0,122.0
-149,"Columbus, OH MSA",2016,1264518.0,356.0,54.0,12.0
-150,"Columbus, OH MSA",2017,1291981.0,469.0,11.0,118.0
-151,"Columbus, OH MSA",2018,1310300.0,533.0,12.0,123.0
-152,"Columbus, OH MSA",2019,1316756.0,595.0,547.0,133.0
-153,"Columbus, OH MSA",2020,1324624.0,873.0,804.0,171.0
-154,"Dallas-Fort Worth-Arlington, TX MSA",2007,4713378.0,427.0,334.0,206.0
-155,"Dallas-Fort Worth-Arlington, TX MSA",2008,4913795.0,378.0,362.0,279.0
-156,"Dallas-Fort Worth-Arlington, TX MSA",2009,5012049.0,468.0,364.0,216.0
-157,"Dallas-Fort Worth-Arlington, TX MSA",2010,5076441.0,443.0,336.0,284.0
-158,"Dallas-Fort Worth-Arlington, TX MSA",2011,5196431.0,519.0,411.0,284.0
-159,"Dallas-Fort Worth-Arlington, TX MSA",2012,5288350.0,551.0,418.0,295.0
-160,"Dallas-Fort Worth-Arlington, TX MSA",2013,5368068.0,485.0,369.0,275.0
-161,"Dallas-Fort Worth-Arlington, TX MSA",2014,5472403.0,641.0,532.0,321.0
-162,"Dallas-Fort Worth-Arlington, TX MSA",2015,5576052.0,588.0,461.0,365.0
-163,"Dallas-Fort Worth-Arlington, TX MSA",2016,5660882.0,675.0,550.0,447.0
-164,"Dallas-Fort Worth-Arlington, TX MSA",2017,5775689.0,637.0,542.0,410.0
-165,"Dallas-Fort Worth-Arlington, TX MSA",2018,5727849.0,622.0,513.0,473.0
-166,"Dallas-Fort Worth-Arlington, TX MSA",2019,5915639.0,660.0,537.0,508.0
-167,"Dallas-Fort Worth-Arlington, TX MSA",2020,5979502.0,917.0,791.0,646.0
-168,"Denver-Aurora-Lakewood, CO MSA",2007,2601696.0,461.0,484.0,575.0
-169,"Denver-Aurora-Lakewood, CO MSA",2008,2372957.0,447.0,426.0,467.0
-170,"Denver-Aurora-Lakewood, CO MSA",2009,2694409.0,480.0,461.0,621.0
-171,"Denver-Aurora-Lakewood, CO MSA",2010,2728339.0,389.0,472.0,591.0
-172,"Denver-Aurora-Lakewood, CO MSA",2011,2787788.0,483.0,533.0,596.0
-173,"Denver-Aurora-Lakewood, CO MSA",2012,2838300.0,461.0,544.0,695.0
-174,"Denver-Aurora-Lakewood, CO MSA",2013,2953038.0,493.0,510.0,473.0
-175,"Denver-Aurora-Lakewood, CO MSA",2014,2949875.0,501.0,504.0,427.0
-176,"Denver-Aurora-Lakewood, CO MSA",2015,3012261.0,462.0,490.0,623.0
-177,"Denver-Aurora-Lakewood, CO MSA",2016,3117539.0,509.0,716.0,766.0
-178,"Denver-Aurora-Lakewood, CO MSA",2017,3083266.0,531.0,426.0,385.0
-179,"Denver-Aurora-Lakewood, CO MSA",2018,3197929.0,556.0,473.0,420.0
-180,"Denver-Aurora-Lakewood, CO MSA",2019,3231918.0,569.0,487.0,684.0
-181,"Denver-Aurora-Lakewood, CO MSA",2020,3256313.0,859.0,726.0,858.0
-182,"Detroit-Warren-Dearborn, MI MSA",2007,3936557.0,734.0,80.0,49.0
-183,"Detroit-Warren-Dearborn, MI MSA",2008,3902460.0,786.0,64.0,33.0
-184,"Detroit-Warren-Dearborn, MI MSA",2009,3877861.0,878.0,66.0,35.0
-185,"Detroit-Warren-Dearborn, MI MSA",2010,3863924.0,825.0,88.0,46.0
-186,"Detroit-Warren-Dearborn, MI MSA",2011,3854386.0,796.0,61.0,70.0
-187,"Detroit-Warren-Dearborn, MI MSA",2012,3860405.0,786.0,60.0,40.0
-188,"Detroit-Warren-Dearborn, MI MSA",2013,3861682.0,903.0,87.0,39.0
-189,"Detroit-Warren-Dearborn, MI MSA",2014,3862784.0,1016.0,82.0,74.0
-190,"Detroit-Warren-Dearborn, MI MSA",2015,3866479.0,1157.0,249.0,124.0
-191,"Detroit-Warren-Dearborn, MI MSA",2016,3861066.0,1370.0,345.0,160.0
-192,"Detroit-Warren-Dearborn, MI MSA",2017,3875827.0,1578.0,455.0,219.0
-193,"Detroit-Warren-Dearborn, MI MSA",2018,3887853.0,1467.0,427.0,158.0
-194,"Detroit-Warren-Dearborn, MI MSA",2019,3880899.0,1300.0,972.0,418.0
-195,"Detroit-Warren-Dearborn, MI MSA",2020,3864873.0,1445.0,1091.0,493.0
-196,"Fresno, CA MSA",2007,1042000.0,117.0,261.0,151.0
-197,"Fresno, CA MSA",2008,1057989.0,109.0,281.0,164.0
-198,"Fresno, CA MSA",2009,921478.0,120.0,93.0,116.0
-199,"Fresno, CA MSA",2010,1081315.0,131.0,455.0,179.0
-200,"Fresno, CA MSA",2011,1095829.0,121.0,129.0,124.0
-201,"Fresno, CA MSA",2012,1100113.0,111.0,162.0,131.0
-202,"Fresno, CA MSA",2013,1107661.0,120.0,192.0,154.0
-203,"Fresno, CA MSA",2014,1120522.0,159.0,268.0,189.0
-204,"Fresno, CA MSA",2015,1129859.0,181.0,38.0,43.0
-205,"Fresno, CA MSA",2016,1134612.0,172.0,921.0,1304.0
-206,"Fresno, CA MSA",2017,1146145.0,156.0,1194.0,1293.0
-207,"Fresno, CA MSA",2018,1152072.0,140.0,1965.0,1533.0
-208,"Fresno, CA MSA",2019,1156428.0,187.0,147.0,156.0
-209,"Fresno, CA MSA",2020,1158679.0,220.0,180.0,183.0
-210,"Houston-The Woodlands-Sugar Land, TX MSA",2007,927980.0,93.0,77.0,31.0
-211,"Houston-The Woodlands-Sugar Land, TX MSA",2008,972775.0,79.0,25.0,27.0
-212,"Houston-The Woodlands-Sugar Land, TX MSA",2009,1014966.0,89.0,79.0,30.0
-213,"Houston-The Woodlands-Sugar Land, TX MSA",2010,1041121.0,76.0,54.0,31.0
-214,"Houston-The Woodlands-Sugar Land, TX MSA",2011,1078687.0,88.0,62.0,38.0
-215,"Houston-The Woodlands-Sugar Land, TX MSA",2012,1112340.0,69.0,49.0,37.0
-216,"Houston-The Woodlands-Sugar Land, TX MSA",2013,1151502.0,72.0,56.0,55.0
-217,"Houston-The Woodlands-Sugar Land, TX MSA",2014,1204292.0,83.0,62.0,55.0
-218,"Houston-The Woodlands-Sugar Land, TX MSA",2015,1253646.0,96.0,71.0,63.0
-219,"Houston-The Woodlands-Sugar Land, TX MSA",2016,1297440.0,121.0,96.0,65.0
-220,"Houston-The Woodlands-Sugar Land, TX MSA",2017,1335762.0,144.0,129.0,64.0
-221,"Houston-The Woodlands-Sugar Land, TX MSA",2018,1378783.0,128.0,102.0,70.0
-222,"Houston-The Woodlands-Sugar Land, TX MSA",2019,1419079.0,149.0,121.0,71.0
-223,"Houston-The Woodlands-Sugar Land, TX MSA",2020,1466057.0,192.0,170.0,91.0
-224,"Indianapolis-Carmel-Anderson, IN MSA",2007,883591.0,131.0,59.0,49.0
-225,"Indianapolis-Carmel-Anderson, IN MSA",2008,889504.0,153.0,12.0,17.0
-226,"Indianapolis-Carmel-Anderson, IN MSA",2009,898394.0,145.0,152.0,37.0
-227,"Indianapolis-Carmel-Anderson, IN MSA",2010,903393.0,163.0,124.0,52.0
-228,"Indianapolis-Carmel-Anderson, IN MSA",2011,911296.0,164.0,139.0,61.0
-229,"Indianapolis-Carmel-Anderson, IN MSA",2012,918977.0,195.0,160.0,72.0
-230,"Indianapolis-Carmel-Anderson, IN MSA",2013,928281.0,212.0,28.0,12.0
-231,"Indianapolis-Carmel-Anderson, IN MSA",2014,934243.0,250.0,47.0,27.0
-232,"Indianapolis-Carmel-Anderson, IN MSA",2015,939020.0,257.0,46.0,25.0
-233,"Indianapolis-Carmel-Anderson, IN MSA",2016,941229.0,326.0,34.0,27.0
-234,"Indianapolis-Carmel-Anderson, IN MSA",2017,950082.0,374.0,51.0,24.0
-235,"Indianapolis-Carmel-Anderson, IN MSA",2018,954670.0,347.0,49.0,20.0
-236,"Indianapolis-Carmel-Anderson, IN MSA",2019,964582.0,386.0,354.0,140.0
-237,"Indianapolis-Carmel-Anderson, IN MSA",2020,966183.0,604.0,572.0,189.0
-238,"Jacksonville, FL MSA",2007,1105258.0,188.0,405.0,198.0
-239,"Jacksonville, FL MSA",2008,1114283.0,160.0,471.0,195.0
-240,"Jacksonville, FL MSA",2009,1121567.0,190.0,479.0,245.0
-241,"Jacksonville, FL MSA",2010,1128442.0,193.0,524.0,289.0
-242,"Jacksonville, FL MSA",2011,1137274.0,193.0,600.0,278.0
-243,"Jacksonville, FL MSA",2012,1148576.0,225.0,815.0,330.0
-244,"Jacksonville, FL MSA",2013,1157964.0,199.0,251.0,137.0
-245,"Jacksonville, FL MSA",2014,1097496.0,182.0,147.0,154.0
-246,"Jacksonville, FL MSA",2015,1116977.0,224.0,26.0,166.0
-247,"Jacksonville, FL MSA",2016,1215188.0,508.0,461.0,112.0
-248,"Jacksonville, FL MSA",2017,1232885.0,538.0,812.0,344.0
-249,"Jacksonville, FL MSA",2018,1252085.0,396.0,364.0,190.0
-250,"Jacksonville, FL MSA",2019,1265632.0,478.0,443.0,162.0
-251,"Jacksonville, FL MSA",2020,1279611.0,658.0,616.0,201.0
-252,"Kansas City, MO-KS MSA",2007,523879.0,46.0,20.0,26.0
-253,"Kansas City, MO-KS MSA",2008,532175.0,40.0,25.0,25.0
-254,"Kansas City, MO-KS MSA",2009,539396.0,41.0,22.0,26.0
-255,"Kansas City, MO-KS MSA",2010,544179.0,40.0,22.0,27.0
-256,"Kansas City, MO-KS MSA",2011,552991.0,52.0,28.0,26.0
-257,"Kansas City, MO-KS MSA",2012,559913.0,47.0,28.0,24.0
-258,"Kansas City, MO-KS MSA",2013,566933.0,57.0,35.0,27.0
-259,"Kansas City, MO-KS MSA",2014,574272.0,58.0,36.0,44.0
-260,"Kansas City, MO-KS MSA",2015,580159.0,46.0,27.0,48.0
-261,"Kansas City, MO-KS MSA",2016,584451.0,61.0,41.0,32.0
-262,"Kansas City, MO-KS MSA",2017,591178.0,55.0,35.0,40.0
-263,"Kansas City, MO-KS MSA",2018,597555.0,62.0,42.0,38.0
-264,"Kansas City, MO-KS MSA",2019,602401.0,69.0,49.0,45.0
-265,"Kansas City, MO-KS MSA",2020,607220.0,78.0,62.0,71.0
-266,"Las Vegas-Henderson-Paradise, NV MSA",2007,1867817.0,387.0,306.0,148.0
-267,"Las Vegas-Henderson-Paradise, NV MSA",2008,1912349.0,368.0,289.0,143.0
-268,"Las Vegas-Henderson-Paradise, NV MSA",2009,1939407.0,398.0,329.0,185.0
-269,"Las Vegas-Henderson-Paradise, NV MSA",2010,1951269.0,390.0,320.0,205.0
-270,"Las Vegas-Henderson-Paradise, NV MSA",2011,1969975.0,458.0,379.0,10.0
-271,"Las Vegas-Henderson-Paradise, NV MSA",2012,2000759.0,428.0,348.0,202.0
-272,"Las Vegas-Henderson-Paradise, NV MSA",2013,2027868.0,445.0,351.0,202.0
-273,"Las Vegas-Henderson-Paradise, NV MSA",2014,2069681.0,407.0,331.0,230.0
-274,"Las Vegas-Henderson-Paradise, NV MSA",2015,2114801.0,444.0,371.0,10.0
-275,"Las Vegas-Henderson-Paradise, NV MSA",2016,2155664.0,481.0,391.0,294.0
-276,"Las Vegas-Henderson-Paradise, NV MSA",2017,2204079.0,478.0,378.0,298.0
-277,"Las Vegas-Henderson-Paradise, NV MSA",2018,2231647.0,508.0,424.0,353.0
-278,"Las Vegas-Henderson-Paradise, NV MSA",2019,2266715.0,476.0,384.0,346.0
-279,"Las Vegas-Henderson-Paradise, NV MSA",2020,2315963.0,626.0,556.0,445.0
-280,"Los Angeles-Long Beach-Anaheim, CA MSA",2007,13596611.0,1193.0,291.0,256.0
-281,"Los Angeles-Long Beach-Anaheim, CA MSA",2008,13667010.0,1156.0,463.0,319.0
-282,"Los Angeles-Long Beach-Anaheim, CA MSA",2009,13761715.0,1234.0,306.0,230.0
-283,"Los Angeles-Long Beach-Anaheim, CA MSA",2010,13826683.0,1148.0,305.0,224.0
-284,"Los Angeles-Long Beach-Anaheim, CA MSA",2011,13953629.0,1168.0,348.0,263.0
-285,"Los Angeles-Long Beach-Anaheim, CA MSA",2012,14065850.0,1186.0,472.0,278.0
-286,"Los Angeles-Long Beach-Anaheim, CA MSA",2013,14147635.0,1369.0,239.0,270.0
-287,"Los Angeles-Long Beach-Anaheim, CA MSA",2014,14287489.0,1292.0,323.0,311.0
-288,"Los Angeles-Long Beach-Anaheim, CA MSA",2015,14370795.0,1306.0,140.0,149.0
-289,"Los Angeles-Long Beach-Anaheim, CA MSA",2016,14341068.0,1451.0,146.0,187.0
-290,"Los Angeles-Long Beach-Anaheim, CA MSA",2017,14390960.0,1539.0,71.0,99.0
-291,"Los Angeles-Long Beach-Anaheim, CA MSA",2018,14324280.0,1657.0,1089.0,1389.0
-292,"Los Angeles-Long Beach-Anaheim, CA MSA",2019,14242020.0,1918.0,1659.0,1778.0
-293,"Los Angeles-Long Beach-Anaheim, CA MSA",2020,14131557.0,3061.0,2766.0,2022.0
-294,"Louisville/Jefferson County, KY-IN MSA",2007,723040.0,97.0,74.0,56.0
-295,"Louisville/Jefferson County, KY-IN MSA",2008,730194.0,95.0,78.0,40.0
-296,"Louisville/Jefferson County, KY-IN MSA",2009,736705.0,86.0,16.0,56.0
-297,"Louisville/Jefferson County, KY-IN MSA",2010,741096.0,119.0,91.0,62.0
-298,"Louisville/Jefferson County, KY-IN MSA",2011,746906.0,150.0,129.0,64.0
-299,"Louisville/Jefferson County, KY-IN MSA",2012,750828.0,186.0,14.0,81.0
-300,"Louisville/Jefferson County, KY-IN MSA",2013,756832.0,191.0,11.0,73.0
-301,"Louisville/Jefferson County, KY-IN MSA",2014,760026.0,195.0,161.0,108.0
-302,"Louisville/Jefferson County, KY-IN MSA",2015,763623.0,222.0,184.0,112.0
-303,"Louisville/Jefferson County, KY-IN MSA",2016,765352.0,355.0,304.0,101.0
-304,"Louisville/Jefferson County, KY-IN MSA",2017,771158.0,377.0,339.0,83.0
-305,"Louisville/Jefferson County, KY-IN MSA",2018,770517.0,298.0,271.0,100.0
-306,"Louisville/Jefferson County, KY-IN MSA",2019,766757.0,350.0,301.0,103.0
-307,"Louisville/Jefferson County, KY-IN MSA",2020,767452.0,538.0,509.0,147.0
-308,"Memphis, TN-MS-AR MSA",2007,921119.0,125.0,13.0,10.0
-309,"Memphis, TN-MS-AR MSA",2008,920685.0,111.0,33.0,11.0
-310,"Memphis, TN-MS-AR MSA",2009,922541.0,133.0,25.0,35.0
-311,"Memphis, TN-MS-AR MSA",2010,927644.0,140.0,41.0,14.0
-312,"Memphis, TN-MS-AR MSA",2011,935088.0,102.0,93.0,43.0
-313,"Memphis, TN-MS-AR MSA",2012,940764.0,137.0,121.0,57.0
-314,"Memphis, TN-MS-AR MSA",2013,939465.0,141.0,25.0,93.0
-315,"Memphis, TN-MS-AR MSA",2014,938803.0,152.0,21.0,22.0
-316,"Memphis, TN-MS-AR MSA",2015,938069.0,197.0,32.0,15.0
-317,"Memphis, TN-MS-AR MSA",2016,934603.0,203.0,45.0,20.0
-318,"Memphis, TN-MS-AR MSA",2017,936961.0,211.0,35.0,19.0
-319,"Memphis, TN-MS-AR MSA",2018,935764.0,161.0,50.0,19.0
-320,"Memphis, TN-MS-AR MSA",2019,937166.0,283.0,254.0,83.0
-321,"Memphis, TN-MS-AR MSA",2020,936017.0,461.0,428.0,125.0
-322,"Miami-Fort Lauderdale-Pompano Beach, FL MSA",2007,5422987.0,720.0,410.0,300.0
-323,"Miami-Fort Lauderdale-Pompano Beach, FL MSA",2008,5454633.0,764.0,90.0,87.0
-324,"Miami-Fort Lauderdale-Pompano Beach, FL MSA",2009,5504624.0,756.0,50.0,54.0
-325,"Miami-Fort Lauderdale-Pompano Beach, FL MSA",2010,5564635.0,626.0,216.0,106.0
-326,"Miami-Fort Lauderdale-Pompano Beach, FL MSA",2011,5670125.0,603.0,237.0,115.0
-327,"Miami-Fort Lauderdale-Pompano Beach, FL MSA",2012,5762717.0,581.0,202.0,125.0
-328,"Miami-Fort Lauderdale-Pompano Beach, FL MSA",2013,5828191.0,584.0,150.0,186.0
-329,"Miami-Fort Lauderdale-Pompano Beach, FL MSA",2014,5929819.0,636.0,176.0,225.0
-330,"Miami-Fort Lauderdale-Pompano Beach, FL MSA",2015,6012331.0,820.0,598.0,274.0
-331,"Miami-Fort Lauderdale-Pompano Beach, FL MSA",2016,6066387.0,1460.0,674.0,305.0
-332,"Miami-Fort Lauderdale-Pompano Beach, FL MSA",2017,6158824.0,1541.0,523.0,230.0
-333,"Miami-Fort Lauderdale-Pompano Beach, FL MSA",2018,6198782.0,1145.0,465.0,226.0
-334,"Miami-Fort Lauderdale-Pompano Beach, FL MSA",2019,6166488.0,1315.0,937.0,405.0
-335,"Miami-Fort Lauderdale-Pompano Beach, FL MSA",2020,6173008.0,1682.0,1571.0,651.0
-336,"Milwaukee-Waukesha, WI MSA",2007,931453.0,193.0,12.0,21.0
-337,"Milwaukee-Waukesha, WI MSA",2008,934752.0,190.0,165.0,11.0
-338,"Milwaukee-Waukesha, WI MSA",2009,942668.0,175.0,12.0,10.0
-339,"Milwaukee-Waukesha, WI MSA",2010,947735.0,166.0,14.0,10.0
-340,"Milwaukee-Waukesha, WI MSA",2011,952532.0,192.0,10.0,11.0
-341,"Milwaukee-Waukesha, WI MSA",2012,955205.0,182.0,18.0,17.0
-342,"Milwaukee-Waukesha, WI MSA",2013,956023.0,237.0,10.0,20.0
-343,"Milwaukee-Waukesha, WI MSA",2014,956406.0,253.0,13.0,29.0
-344,"Milwaukee-Waukesha, WI MSA",2015,957735.0,258.0,240.0,114.0
-345,"Milwaukee-Waukesha, WI MSA",2016,951448.0,330.0,314.0,140.0
-346,"Milwaukee-Waukesha, WI MSA",2017,952085.0,359.0,335.0,159.0
-347,"Milwaukee-Waukesha, WI MSA",2018,948201.0,360.0,328.0,163.0
-348,"Milwaukee-Waukesha, WI MSA",2019,945726.0,406.0,384.0,162.0
-349,"Milwaukee-Waukesha, WI MSA",2020,945016.0,511.0,476.0,206.0
-350,"Minneapolis-St Paul-Bloomington, MN-WI MSA",2007,1626190.0,157.0,123.0,22.0
-351,"Minneapolis-St Paul-Bloomington, MN-WI MSA",2008,1638063.0,170.0,116.0,56.0
-352,"Minneapolis-St Paul-Bloomington, MN-WI MSA",2009,1653311.0,151.0,112.0,145.0
-353,"Minneapolis-St Paul-Bloomington, MN-WI MSA",2010,1661065.0,168.0,114.0,144.0
-354,"Minneapolis-St Paul-Bloomington, MN-WI MSA",2011,1683127.0,203.0,143.0,149.0
-355,"Minneapolis-St Paul-Bloomington, MN-WI MSA",2012,1704728.0,219.0,116.0,158.0
-356,"Minneapolis-St Paul-Bloomington, MN-WI MSA",2013,1725492.0,233.0,163.0,184.0
-357,"Minneapolis-St Paul-Bloomington, MN-WI MSA",2014,1744719.0,218.0,158.0,197.0
-358,"Minneapolis-St Paul-Bloomington, MN-WI MSA",2015,1761282.0,256.0,191.0,217.0
-359,"Minneapolis-St Paul-Bloomington, MN-WI MSA",2016,1773132.0,315.0,247.0,76.0
-360,"Minneapolis-St Paul-Bloomington, MN-WI MSA",2017,1799998.0,348.0,278.0,221.0
-361,"Minneapolis-St Paul-Bloomington, MN-WI MSA",2018,1809638.0,284.0,231.0,261.0
-362,"Minneapolis-St Paul-Bloomington, MN-WI MSA",2019,1816164.0,358.0,288.0,301.0
-363,"Minneapolis-St Paul-Bloomington, MN-WI MSA",2020,1816311.0,527.0,448.0,359.0
-364,"Nashville-Davidson--Murfreesboro--Franklin, TN MSA",2007,605031.0,93.0,75.0,57.0
-365,"Nashville-Davidson--Murfreesboro--Franklin, TN MSA",2008,612649.0,83.0,17.0,57.0
-366,"Nashville-Davidson--Murfreesboro--Franklin, TN MSA",2009,621008.0,115.0,15.0,85.0
-367,"Nashville-Davidson--Murfreesboro--Franklin, TN MSA",2010,626681.0,106.0,12.0,66.0
-368,"Nashville-Davidson--Murfreesboro--Franklin, TN MSA",2011,635475.0,108.0,14.0,69.0
-369,"Nashville-Davidson--Murfreesboro--Franklin, TN MSA",2012,648295.0,118.0,10.0,12.0
-370,"Nashville-Davidson--Murfreesboro--Franklin, TN MSA",2013,658602.0,133.0,14.0,10.0
-371,"Nashville-Davidson--Murfreesboro--Franklin, TN MSA",2014,668347.0,133.0,16.0,69.0
-372,"Nashville-Davidson--Murfreesboro--Franklin, TN MSA",2015,678889.0,166.0,14.0,10.0
-373,"Nashville-Davidson--Murfreesboro--Franklin, TN MSA",2016,684410.0,231.0,10.0,80.0
-374,"Nashville-Davidson--Murfreesboro--Franklin, TN MSA",2017,691243.0,242.0,13.0,11.0
-375,"Nashville-Davidson--Murfreesboro--Franklin, TN MSA",2018,692587.0,248.0,11.0,11.0
-376,"Nashville-Davidson--Murfreesboro--Franklin, TN MSA",2019,694144.0,342.0,309.0,104.0
-377,"Nashville-Davidson--Murfreesboro--Franklin, TN MSA",2020,694176.0,448.0,429.0,152.0
-378,"New York-Newark-Jersey City, NY-NJ-PA MSA",2007,16580273.0,1672.0,2224.0,985.0
-379,"New York-Newark-Jersey City, NY-NJ-PA MSA",2008,17124847.0,1629.0,2411.0,1184.0
-380,"New York-Newark-Jersey City, NY-NJ-PA MSA",2009,16071322.0,1257.0,1726.0,503.0
-381,"New York-Newark-Jersey City, NY-NJ-PA MSA",2010,17314031.0,1593.0,2150.0,910.0
-382,"New York-Newark-Jersey City, NY-NJ-PA MSA",2011,17554443.0,1905.0,2077.0,919.0
-383,"New York-Newark-Jersey City, NY-NJ-PA MSA",2012,17562348.0,2115.0,1282.0,1147.0
-384,"New York-Newark-Jersey City, NY-NJ-PA MSA",2013,17670887.0,2170.0,2293.0,945.0
-385,"New York-Newark-Jersey City, NY-NJ-PA MSA",2014,17929016.0,2203.0,2426.0,1080.0
-386,"New York-Newark-Jersey City, NY-NJ-PA MSA",2015,18011360.0,2520.0,2237.0,1004.0
-387,"New York-Newark-Jersey City, NY-NJ-PA MSA",2016,17985010.0,3529.0,2669.0,1033.0
-388,"New York-Newark-Jersey City, NY-NJ-PA MSA",2017,18133853.0,3905.0,2268.0,937.0
-389,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018,17814760.0,3794.0,2387.0,917.0
-390,"New York-Newark-Jersey City, NY-NJ-PA MSA",2019,17733292.0,3765.0,3411.0,1347.0
-391,"New York-Newark-Jersey City, NY-NJ-PA MSA",2020,17644603.0,4519.0,4169.0,1538.0
-392,"Oklahoma City, OK MSA",2007,1043919.0,189.0,41.0,100.0
-393,"Oklahoma City, OK MSA",2008,948274.0,149.0,33.0,24.0
-394,"Oklahoma City, OK MSA",2009,1076584.0,179.0,23.0,48.0
-395,"Oklahoma City, OK MSA",2010,1089929.0,210.0,46.0,45.0
-396,"Oklahoma City, OK MSA",2011,1113144.0,199.0,57.0,33.0
-397,"Oklahoma City, OK MSA",2012,1129979.0,251.0,40.0,43.0
-398,"Oklahoma City, OK MSA",2013,1150708.0,243.0,194.0,143.0
-399,"Oklahoma City, OK MSA",2014,1165705.0,230.0,166.0,162.0
-400,"Oklahoma City, OK MSA",2015,1184700.0,213.0,181.0,163.0
-401,"Oklahoma City, OK MSA",2016,1198157.0,238.0,201.0,177.0
-402,"Oklahoma City, OK MSA",2017,1207525.0,229.0,182.0,195.0
-403,"Oklahoma City, OK MSA",2018,1218698.0,209.0,158.0,162.0
-404,"Oklahoma City, OK MSA",2019,1229754.0,213.0,156.0,182.0
-405,"Oklahoma City, OK MSA",2020,1244299.0,251.0,203.0,243.0
-406,"Orlando-Kissimmee-Sanford, FL MSA",2007,1767956.0,202.0,254.0,189.0
-407,"Orlando-Kissimmee-Sanford, FL MSA",2008,1793835.0,209.0,423.0,210.0
-408,"Orlando-Kissimmee-Sanford, FL MSA",2009,1816406.0,224.0,392.0,270.0
-409,"Orlando-Kissimmee-Sanford, FL MSA",2010,1837359.0,260.0,89.0,87.0
-410,"Orlando-Kissimmee-Sanford, FL MSA",2011,1870341.0,257.0,388.0,263.0
-411,"Orlando-Kissimmee-Sanford, FL MSA",2012,1920488.0,228.0,109.0,86.0
-412,"Orlando-Kissimmee-Sanford, FL MSA",2013,1959812.0,216.0,129.0,97.0
-413,"Orlando-Kissimmee-Sanford, FL MSA",2014,2005728.0,287.0,190.0,108.0
-414,"Orlando-Kissimmee-Sanford, FL MSA",2015,2061263.0,315.0,89.0,144.0
-415,"Orlando-Kissimmee-Sanford, FL MSA",2016,2105861.0,369.0,134.0,176.0
-416,"Orlando-Kissimmee-Sanford, FL MSA",2017,2163814.0,421.0,357.0,262.0
-417,"Orlando-Kissimmee-Sanford, FL MSA",2018,2216467.0,456.0,500.0,341.0
-418,"Orlando-Kissimmee-Sanford, FL MSA",2019,2241029.0,443.0,397.0,173.0
-419,"Orlando-Kissimmee-Sanford, FL MSA",2020,2263882.0,595.0,557.0,203.0
-420,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2007,6871235.0,1105.0,966.0,459.0
-421,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2008,6786216.0,1143.0,991.0,426.0
-422,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2009,6365934.0,1086.0,1399.0,378.0
-423,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2010,6918275.0,1215.0,986.0,392.0
-424,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2011,7114183.0,1489.0,2144.0,623.0
-425,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2012,7148089.0,1561.0,2205.0,616.0
-426,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2013,7171018.0,1558.0,1213.0,410.0
-427,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2014,7195071.0,1724.0,1301.0,435.0
-428,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2015,7217891.0,1904.0,1438.0,531.0
-429,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2016,7218744.0,2550.0,1531.0,626.0
-430,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2017,7255520.0,3310.0,1837.0,567.0
-431,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2018,7254922.0,3280.0,1891.0,605.0
-432,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2019,7263071.0,3302.0,3063.0,598.0
-433,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2020,7272924.0,3419.0,3194.0,732.0
-434,"Phoenix-Mesa-Chandler, AZ MSA",2007,4018128.0,639.0,596.0,715.0
-435,"Phoenix-Mesa-Chandler, AZ MSA",2008,4106372.0,573.0,28.0,107.0
-436,"Phoenix-Mesa-Chandler, AZ MSA",2009,4153609.0,645.0,873.0,39.0
-437,"Phoenix-Mesa-Chandler, AZ MSA",2010,4192887.0,694.0,999.0,35.0
-438,"Phoenix-Mesa-Chandler, AZ MSA",2011,4263236.0,701.0,1130.0,63.0
-439,"Phoenix-Mesa-Chandler, AZ MSA",2012,4329534.0,730.0,1546.0,789.0
-440,"Phoenix-Mesa-Chandler, AZ MSA",2013,4398762.0,824.0,42.0,116.0
-441,"Phoenix-Mesa-Chandler, AZ MSA",2014,4489109.0,770.0,29.0,132.0
-442,"Phoenix-Mesa-Chandler, AZ MSA",2015,4574531.0,826.0,596.0,741.0
-443,"Phoenix-Mesa-Chandler, AZ MSA",2016,4661537.0,942.0,47.0,127.0
-444,"Phoenix-Mesa-Chandler, AZ MSA",2017,4737270.0,1091.0,1122.0,171.0
-445,"Phoenix-Mesa-Chandler, AZ MSA",2018,4857962.0,1233.0,1347.0,236.0
-446,"Phoenix-Mesa-Chandler, AZ MSA",2019,4948203.0,1375.0,1178.0,68.0
-447,"Phoenix-Mesa-Chandler, AZ MSA",2020,5059909.0,1809.0,1614.0,789.0
-448,"Pittsburgh, PA MSA",2007,1222482.0,207.0,12.0,56.0
-449,"Pittsburgh, PA MSA",2008,1221071.0,224.0,10.0,84.0
-450,"Pittsburgh, PA MSA",2009,1222171.0,222.0,195.0,99.0
-451,"Pittsburgh, PA MSA",2010,1223348.0,237.0,213.0,86.0
-452,"Pittsburgh, PA MSA",2011,1227066.0,249.0,229.0,81.0
-453,"Pittsburgh, PA MSA",2012,1229338.0,283.0,258.0,73.0
-454,"Pittsburgh, PA MSA",2013,1231527.0,273.0,249.0,96.0
-455,"Pittsburgh, PA MSA",2014,1231255.0,319.0,22.0,101.0
-456,"Pittsburgh, PA MSA",2015,1230459.0,422.0,15.0,86.0
-457,"Pittsburgh, PA MSA",2016,1225365.0,635.0,17.0,94.0
-458,"Pittsburgh, PA MSA",2017,1223048.0,765.0,733.0,100.0
-459,"Pittsburgh, PA MSA",2018,1218452.0,466.0,22.0,92.0
-460,"Pittsburgh, PA MSA",2019,1216045.0,528.0,507.0,107.0
-461,"Pittsburgh, PA MSA",2020,1211358.0,632.0,613.0,121.0
-462,"Portland-Vancouver-Hillsboro, OR-WA MSA",2007,1615461.0,289.0,107.0,137.0
-463,"Portland-Vancouver-Hillsboro, OR-WA MSA",2008,1644086.0,263.0,130.0,151.0
-464,"Portland-Vancouver-Hillsboro, OR-WA MSA",2009,1673656.0,256.0,70.0,79.0
-465,"Portland-Vancouver-Hillsboro, OR-WA MSA",2010,1690407.0,244.0,53.0,76.0
-466,"Portland-Vancouver-Hillsboro, OR-WA MSA",2011,1721859.0,281.0,66.0,81.0
-467,"Portland-Vancouver-Hillsboro, OR-WA MSA",2012,1745215.0,282.0,52.0,69.0
-468,"Portland-Vancouver-Hillsboro, OR-WA MSA",2013,1764948.0,270.0,90.0,95.0
-469,"Portland-Vancouver-Hillsboro, OR-WA MSA",2014,1790718.0,258.0,97.0,105.0
-470,"Portland-Vancouver-Hillsboro, OR-WA MSA",2015,1824115.0,271.0,67.0,127.0
-471,"Portland-Vancouver-Hillsboro, OR-WA MSA",2016,1849563.0,292.0,97.0,159.0
-472,"Portland-Vancouver-Hillsboro, OR-WA MSA",2017,1871155.0,323.0,183.0,238.0
-473,"Portland-Vancouver-Hillsboro, OR-WA MSA",2018,1891432.0,318.0,205.0,293.0
-474,"Portland-Vancouver-Hillsboro, OR-WA MSA",2019,1902688.0,360.0,276.0,371.0
-475,"Portland-Vancouver-Hillsboro, OR-WA MSA",2020,1916016.0,490.0,361.0,424.0
-476,"Providence-Warwick, RI-MA MSA",2007,923520.0,131.0,93.0,43.0
-477,"Providence-Warwick, RI-MA MSA",2008,1004335.0,185.0,93.0,69.0
-478,"Providence-Warwick, RI-MA MSA",2009,920675.0,154.0,116.0,58.0
-479,"Providence-Warwick, RI-MA MSA",2010,1002692.0,174.0,117.0,83.0
-480,"Providence-Warwick, RI-MA MSA",2011,918807.0,181.0,89.0,64.0
-481,"Providence-Warwick, RI-MA MSA",2012,919112.0,188.0,118.0,74.0
-482,"Providence-Warwick, RI-MA MSA",2013,1002291.0,243.0,139.0,93.0
-483,"Providence-Warwick, RI-MA MSA",2014,923755.0,231.0,152.0,71.0
-484,"Providence-Warwick, RI-MA MSA",2015,924791.0,300.0,96.0,73.0
-485,"Providence-Warwick, RI-MA MSA",2016,1007359.0,318.0,196.0,99.0
-486,"Providence-Warwick, RI-MA MSA",2017,1010727.0,312.0,255.0,144.0
-487,"Providence-Warwick, RI-MA MSA",2018,1008666.0,315.0,398.0,187.0
-488,"Providence-Warwick, RI-MA MSA",2019,1010882.0,301.0,270.0,137.0
-489,"Providence-Warwick, RI-MA MSA",2020,1008775.0,397.0,368.0,196.0
-490,"Raleigh-Cary, NC MSA",2007,1201596.0,99.0,120.0,82.0
-491,"Raleigh-Cary, NC MSA",2008,1115848.0,100.0,163.0,40.0
-492,"Raleigh-Cary, NC MSA",2009,1281349.0,85.0,48.0,36.0
-493,"Raleigh-Cary, NC MSA",2010,1168580.0,88.0,31.0,30.0
-494,"Raleigh-Cary, NC MSA",2011,1338927.0,104.0,52.0,40.0
-495,"Raleigh-Cary, NC MSA",2012,1369733.0,97.0,62.0,48.0
-496,"Raleigh-Cary, NC MSA",2013,1402774.0,112.0,132.0,49.0
-497,"Raleigh-Cary, NC MSA",2014,1293151.0,114.0,119.0,33.0
-498,"Raleigh-Cary, NC MSA",2015,1466504.0,127.0,80.0,56.0
-499,"Raleigh-Cary, NC MSA",2016,1494799.0,185.0,97.0,59.0
-500,"Raleigh-Cary, NC MSA",2017,1528789.0,217.0,90.0,98.0
-501,"Raleigh-Cary, NC MSA",2018,1555071.0,217.0,86.0,120.0
-502,"Raleigh-Cary, NC MSA",2019,1581725.0,189.0,156.0,116.0
-503,"Raleigh-Cary, NC MSA",2020,1608654.0,303.0,281.0,133.0
-504,"Richmond, VA MSA",2007,801245.0,81.0,60.0,42.0
-505,"Richmond, VA MSA",2008,812289.0,89.0,58.0,51.0
-506,"Richmond, VA MSA",2009,821537.0,76.0,56.0,30.0
-507,"Richmond, VA MSA",2010,827385.0,68.0,48.0,32.0
-508,"Richmond, VA MSA",2011,836255.0,101.0,63.0,50.0
-509,"Richmond, VA MSA",2012,949765.0,87.0,68.0,77.0
-510,"Richmond, VA MSA",2013,961800.0,105.0,76.0,25.0
-511,"Richmond, VA MSA",2014,974194.0,133.0,91.0,64.0
-512,"Richmond, VA MSA",2015,984358.0,146.0,112.0,60.0
-513,"Richmond, VA MSA",2016,993072.0,221.0,154.0,77.0
-514,"Richmond, VA MSA",2017,1004452.0,251.0,184.0,96.0
-515,"Richmond, VA MSA",2018,1013839.0,262.0,200.0,80.0
-516,"Richmond, VA MSA",2019,1021822.0,288.0,265.0,83.0
-517,"Richmond, VA MSA",2020,1062647.0,400.0,377.0,113.0
-518,"Riverside-San Bernardino-Ontario, CA MSA",2007,4067344.0,403.0,407.0,424.0
-519,"Riverside-San Bernardino-Ontario, CA MSA",2008,4113447.0,467.0,691.0,457.0
-520,"Riverside-San Bernardino-Ontario, CA MSA",2009,4160685.0,475.0,68.0,79.0
-521,"Riverside-San Bernardino-Ontario, CA MSA",2010,4224851.0,456.0,81.0,91.0
-522,"Riverside-San Bernardino-Ontario, CA MSA",2011,4304997.0,455.0,379.0,30.0
-523,"Riverside-San Bernardino-Ontario, CA MSA",2012,4350096.0,506.0,415.0,389.0
-524,"Riverside-San Bernardino-Ontario, CA MSA",2013,4380878.0,559.0,762.0,731.0
-525,"Riverside-San Bernardino-Ontario, CA MSA",2014,4441890.0,588.0,1255.0,807.0
-526,"Riverside-San Bernardino-Ontario, CA MSA",2015,4489159.0,586.0,345.0,301.0
-527,"Riverside-San Bernardino-Ontario, CA MSA",2016,4527837.0,598.0,328.0,317.0
-528,"Riverside-San Bernardino-Ontario, CA MSA",2017,4580670.0,711.0,527.0,336.0
-529,"Riverside-San Bernardino-Ontario, CA MSA",2018,4622361.0,785.0,639.0,362.0
-530,"Riverside-San Bernardino-Ontario, CA MSA",2019,4650631.0,778.0,640.0,714.0
-531,"Riverside-San Bernardino-Ontario, CA MSA",2020,4678371.0,1298.0,1141.0,884.0
-532,"Sacramento-Roseville-Folsom, CA MSA",2007,1381161.0,219.0,14.0,14.0
-533,"Sacramento-Roseville-Folsom, CA MSA",2008,1394438.0,268.0,18.0,24.0
-534,"Sacramento-Roseville-Folsom, CA MSA",2009,1408601.0,252.0,15.0,20.0
-535,"Sacramento-Roseville-Folsom, CA MSA",2010,1418788.0,228.0,34.0,37.0
-536,"Sacramento-Roseville-Folsom, CA MSA",2011,1436105.0,232.0,346.0,368.0
-537,"Sacramento-Roseville-Folsom, CA MSA",2012,1450121.0,228.0,599.0,389.0
-538,"Sacramento-Roseville-Folsom, CA MSA",2013,1462131.0,259.0,54.0,65.0
-539,"Sacramento-Roseville-Folsom, CA MSA",2014,1482026.0,268.0,63.0,67.0
-540,"Sacramento-Roseville-Folsom, CA MSA",2015,1501335.0,298.0,364.0,10.0
-541,"Sacramento-Roseville-Folsom, CA MSA",2016,1514460.0,252.0,381.0,352.0
-542,"Sacramento-Roseville-Folsom, CA MSA",2017,1530615.0,258.0,416.0,363.0
-543,"Sacramento-Roseville-Folsom, CA MSA",2018,1540975.0,289.0,656.0,418.0
-544,"Sacramento-Roseville-Folsom, CA MSA",2019,1552058.0,367.0,291.0,236.0
-545,"Sacramento-Roseville-Folsom, CA MSA",2020,1559146.0,323.0,265.0,250.0
-546,"Salt Lake City, UT MSA",2007,1453293.0,313.0,76.0,61.0
-547,"Salt Lake City, UT MSA",2008,1487168.0,275.0,106.0,86.0
-548,"Salt Lake City, UT MSA",2009,1521596.0,309.0,109.0,88.0
-549,"Salt Lake City, UT MSA",2010,1546219.0,257.0,106.0,94.0
-550,"Salt Lake City, UT MSA",2011,1579484.0,315.0,161.0,92.0
-551,"Salt Lake City, UT MSA",2012,1604346.0,351.0,192.0,117.0
-552,"Salt Lake City, UT MSA",2013,1631612.0,354.0,171.0,103.0
-553,"Salt Lake City, UT MSA",2014,1652716.0,363.0,194.0,118.0
-554,"Salt Lake City, UT MSA",2015,1682519.0,394.0,191.0,139.0
-555,"Salt Lake City, UT MSA",2016,1713653.0,399.0,204.0,159.0
-556,"Salt Lake City, UT MSA",2017,1742074.0,407.0,277.0,146.0
-557,"Salt Lake City, UT MSA",2018,1774846.0,385.0,302.0,160.0
-558,"Salt Lake City, UT MSA",2019,1796672.0,358.0,275.0,157.0
-559,"Salt Lake City, UT MSA",2020,1816576.0,372.0,290.0,224.0
-560,"San Antonio-New Braunfels, TX MSA",2007,1615210.0,127.0,11.0,12.0
-561,"San Antonio-New Braunfels, TX MSA",2008,1651709.0,165.0,22.0,11.0
-562,"San Antonio-New Braunfels, TX MSA",2009,1685628.0,205.0,20.0,23.0
-563,"San Antonio-New Braunfels, TX MSA",2010,1714773.0,199.0,26.0,14.0
-564,"San Antonio-New Braunfels, TX MSA",2011,1756153.0,267.0,19.0,16.0
-565,"San Antonio-New Braunfels, TX MSA",2012,1785704.0,206.0,15.0,14.0
-566,"San Antonio-New Braunfels, TX MSA",2013,1817610.0,188.0,23.0,16.0
-567,"San Antonio-New Braunfels, TX MSA",2014,1855866.0,198.0,17.0,15.0
-568,"San Antonio-New Braunfels, TX MSA",2015,1897753.0,205.0,28.0,21.0
-569,"San Antonio-New Braunfels, TX MSA",2016,1928680.0,230.0,39.0,35.0
-570,"San Antonio-New Braunfels, TX MSA",2017,1958578.0,220.0,24.0,28.0
-571,"San Antonio-New Braunfels, TX MSA",2018,1986049.0,237.0,37.0,59.0
-572,"San Antonio-New Braunfels, TX MSA",2019,2003554.0,283.0,240.0,239.0
-573,"San Antonio-New Braunfels, TX MSA",2020,2026823.0,301.0,269.0,263.0
-574,"San Diego-Chula Vista-Carlsbad, CA MSA",2007,2975742.0,376.0,54.0,65.0
-575,"San Diego-Chula Vista-Carlsbad, CA MSA",2008,3022116.0,378.0,63.0,67.0
-576,"San Diego-Chula Vista-Carlsbad, CA MSA",2009,3061203.0,377.0,364.0,10.0
-577,"San Diego-Chula Vista-Carlsbad, CA MSA",2010,3095313.0,383.0,381.0,352.0
-578,"San Diego-Chula Vista-Carlsbad, CA MSA",2011,3140069.0,428.0,416.0,363.0
-579,"San Diego-Chula Vista-Carlsbad, CA MSA",2012,3177063.0,434.0,656.0,418.0
-580,"San Diego-Chula Vista-Carlsbad, CA MSA",2013,3211252.0,452.0,291.0,236.0
-581,"San Diego-Chula Vista-Carlsbad, CA MSA",2014,3263431.0,441.0,265.0,250.0
-582,"San Diego-Chula Vista-Carlsbad, CA MSA",2015,3299521.0,450.0,163.0,326.0
-583,"San Diego-Chula Vista-Carlsbad, CA MSA",2016,3317749.0,462.0,258.0,10.0
-584,"San Diego-Chula Vista-Carlsbad, CA MSA",2017,3337685.0,507.0,224.0,351.0
-585,"San Diego-Chula Vista-Carlsbad, CA MSA",2018,3343364.0,521.0,485.0,466.0
-586,"San Diego-Chula Vista-Carlsbad, CA MSA",2019,3338330.0,545.0,442.0,460.0
-587,"San Diego-Chula Vista-Carlsbad, CA MSA",2020,3332427.0,809.0,708.0,520.0
-588,"San Francisco-Oakland-Berkeley, CA MSA",2007,2613219.0,465.0,799.0,328.0
-589,"San Francisco-Oakland-Berkeley, CA MSA",2008,2650851.0,404.0,894.0,665.0
-590,"San Francisco-Oakland-Berkeley, CA MSA",2009,2686603.0,389.0,596.0,513.0
-591,"San Francisco-Oakland-Berkeley, CA MSA",2010,2704399.0,368.0,821.0,595.0
-592,"San Francisco-Oakland-Berkeley, CA MSA",2011,2735820.0,424.0,516.0,441.0
-593,"San Francisco-Oakland-Berkeley, CA MSA",2012,2775697.0,339.0,476.0,459.0
-594,"San Francisco-Oakland-Berkeley, CA MSA",2013,2815024.0,370.0,362.0,564.0
-595,"San Francisco-Oakland-Berkeley, CA MSA",2014,2865807.0,370.0,1332.0,1526.0
-596,"San Francisco-Oakland-Berkeley, CA MSA",2015,2906708.0,451.0,1605.0,1801.0
-597,"San Francisco-Oakland-Berkeley, CA MSA",2016,2921408.0,422.0,2596.0,2186.0
-598,"San Francisco-Oakland-Berkeley, CA MSA",2017,2949481.0,385.0,648.0,709.0
-599,"San Francisco-Oakland-Berkeley, CA MSA",2018,2949141.0,497.0,989.0,762.0
-600,"San Francisco-Oakland-Berkeley, CA MSA",2019,2949448.0,748.0,659.0,289.0
-601,"San Francisco-Oakland-Berkeley, CA MSA",2020,2922226.0,983.0,919.0,357.0
-602,"San Jose-Sunnyvale-Santa Clara, CA MSA",2007,1712026.0,156.0,442.0,460.0
-603,"San Jose-Sunnyvale-Santa Clara, CA MSA",2008,1740964.0,122.0,708.0,520.0
-604,"San Jose-Sunnyvale-Santa Clara, CA MSA",2009,1765137.0,117.0,380.0,79.0
-605,"San Jose-Sunnyvale-Santa Clara, CA MSA",2010,1781642.0,138.0,536.0,109.0
-606,"San Jose-Sunnyvale-Santa Clara, CA MSA",2011,1809378.0,149.0,119.0,96.0
-607,"San Jose-Sunnyvale-Santa Clara, CA MSA",2012,1837504.0,156.0,151.0,125.0
-608,"San Jose-Sunnyvale-Santa Clara, CA MSA",2013,1862041.0,158.0,47.0,51.0
-609,"San Jose-Sunnyvale-Santa Clara, CA MSA",2014,1894605.0,144.0,78.0,67.0
-610,"San Jose-Sunnyvale-Santa Clara, CA MSA",2015,1918044.0,146.0,92.0,66.0
-611,"San Jose-Sunnyvale-Santa Clara, CA MSA",2016,1919402.0,162.0,112.0,59.0
-612,"San Jose-Sunnyvale-Santa Clara, CA MSA",2017,1938153.0,173.0,74.0,91.0
-613,"San Jose-Sunnyvale-Santa Clara, CA MSA",2018,1937570.0,178.0,83.0,86.0
-614,"San Jose-Sunnyvale-Santa Clara, CA MSA",2019,1927852.0,224.0,183.0,187.0
-615,"San Jose-Sunnyvale-Santa Clara, CA MSA",2020,1907105.0,308.0,271.0,211.0
-616,"Seattle-Tacoma-Bellevue, WA MSA",2007,3304467.0,509.0,131.0,167.0
-617,"Seattle-Tacoma-Bellevue, WA MSA",2008,3355042.0,514.0,154.0,138.0
-618,"Seattle-Tacoma-Bellevue, WA MSA",2009,3414797.0,512.0,247.0,176.0
-619,"Seattle-Tacoma-Bellevue, WA MSA",2010,3439809.0,493.0,226.0,209.0
-620,"Seattle-Tacoma-Bellevue, WA MSA",2011,3500026.0,569.0,151.0,197.0
-621,"Seattle-Tacoma-Bellevue, WA MSA",2012,3552157.0,526.0,260.0,207.0
-622,"Seattle-Tacoma-Bellevue, WA MSA",2013,3610105.0,556.0,126.0,87.0
-623,"Seattle-Tacoma-Bellevue, WA MSA",2014,3671478.0,588.0,49.0,68.0
-624,"Seattle-Tacoma-Bellevue, WA MSA",2015,3733580.0,607.0,364.0,177.0
-625,"Seattle-Tacoma-Bellevue, WA MSA",2016,3798902.0,621.0,164.0,168.0
-626,"Seattle-Tacoma-Bellevue, WA MSA",2017,3867046.0,684.0,547.0,519.0
-627,"Seattle-Tacoma-Bellevue, WA MSA",2018,3939363.0,751.0,290.0,290.0
-628,"Seattle-Tacoma-Bellevue, WA MSA",2019,3979845.0,808.0,655.0,598.0
-629,"Seattle-Tacoma-Bellevue, WA MSA",2020,4018598.0,1024.0,892.0,693.0
-630,"St. Louis, MO-IL MSA",2007,1317348.0,150.0,93.0,58.0
-631,"St. Louis, MO-IL MSA",2008,1316286.0,168.0,104.0,55.0
-632,"St. Louis, MO-IL MSA",2009,1317460.0,199.0,109.0,63.0
-633,"St. Louis, MO-IL MSA",2010,1318248.0,229.0,131.0,65.0
-634,"St. Louis, MO-IL MSA",2011,1316761.0,255.0,168.0,61.0
-635,"St. Louis, MO-IL MSA",2012,1318610.0,222.0,176.0,72.0
-636,"St. Louis, MO-IL MSA",2013,1319860.0,275.0,176.0,86.0
-637,"St. Louis, MO-IL MSA",2014,1319295.0,312.0,209.0,85.0
-638,"St. Louis, MO-IL MSA",2015,1319047.0,276.0,109.0,127.0
-639,"St. Louis, MO-IL MSA",2016,1309985.0,471.0,214.0,118.0
-640,"St. Louis, MO-IL MSA",2017,1305352.0,511.0,232.0,121.0
-641,"St. Louis, MO-IL MSA",2018,1299783.0,589.0,241.0,124.0
-642,"St. Louis, MO-IL MSA",2019,1294781.0,591.0,543.0,127.0
-643,"St. Louis, MO-IL MSA",2020,1291665.0,711.0,676.0,169.0
-644,"Tampa-St Petersburg-Clearwater, FL MSA",2007,2103310.0,505.0,82.0,55.0
-645,"Tampa-St Petersburg-Clearwater, FL MSA",2008,2113231.0,527.0,92.0,62.0
-646,"Tampa-St Petersburg-Clearwater, FL MSA",2009,2129380.0,544.0,48.0,120.0
-647,"Tampa-St Petersburg-Clearwater, FL MSA",2010,2145768.0,564.0,37.0,132.0
-648,"Tampa-St Petersburg-Clearwater, FL MSA",2011,2185173.0,503.0,285.0,113.0
-649,"Tampa-St Petersburg-Clearwater, FL MSA",2012,2199065.0,434.0,350.0,121.0
-650,"Tampa-St Petersburg-Clearwater, FL MSA",2013,2220626.0,366.0,97.0,50.0
-651,"Tampa-St Petersburg-Clearwater, FL MSA",2014,2254396.0,370.0,127.0,77.0
-652,"Tampa-St Petersburg-Clearwater, FL MSA",2015,2298877.0,388.0,461.0,207.0
-653,"Tampa-St Petersburg-Clearwater, FL MSA",2016,2336968.0,523.0,612.0,243.0
-654,"Tampa-St Petersburg-Clearwater, FL MSA",2017,2379203.0,521.0,201.0,95.0
-655,"Tampa-St Petersburg-Clearwater, FL MSA",2018,2412168.0,598.0,318.0,123.0
-656,"Tampa-St Petersburg-Clearwater, FL MSA",2019,2446964.0,717.0,625.0,297.0
-657,"Tampa-St Petersburg-Clearwater, FL MSA",2020,2474759.0,1022.0,934.0,426.0
-658,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2007,1075958.0,125.0,59.0,39.0
-659,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2008,1074277.0,82.0,84.0,56.0
-660,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2009,1077905.0,102.0,89.0,51.0
-661,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2010,1221161.0,85.0,120.0,58.0
-662,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2011,1226397.0,116.0,64.0,66.0
-663,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2012,1238782.0,114.0,60.0,82.0
-664,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2013,1243908.0,171.0,139.0,61.0
-665,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2014,1336429.0,166.0,111.0,80.0
-666,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2015,1341567.0,211.0,166.0,114.0
-667,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2016,1252892.0,298.0,253.0,108.0
-668,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2017,1339829.0,261.0,229.0,134.0
-669,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2018,1445822.0,275.0,243.0,125.0
-670,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2019,1411674.0,272.0,239.0,165.0
-671,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2020,1418683.0,439.0,379.0,181.0
-672,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2007,2440610.0,198.0,49.0,129.0
-673,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2008,2328444.0,175.0,64.0,129.0
-674,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2009,2487555.0,157.0,73.0,116.0
-675,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2010,2397762.0,158.0,102.0,134.0
-676,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2011,2823404.0,214.0,134.0,157.0
-677,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2012,2885451.0,226.0,108.0,153.0
-678,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2013,2939430.0,251.0,149.0,150.0
-679,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2014,2983058.0,277.0,192.0,139.0
-680,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2015,3024487.0,302.0,245.0,175.0
-681,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2016,3046837.0,527.0,452.0,182.0
-682,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2017,3098508.0,577.0,505.0,185.0
-683,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2018,2965632.0,471.0,397.0,185.0
-684,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2019,3174509.0,569.0,497.0,198.0
-685,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2020,3201694.0,776.0,694.0,244.0
+MSA,Year,Population,Overdose Deaths,Unintentional Overdose Deaths,Alcohol-Induced Deaths
+"Atlanta-Sandy Springs-Alpharetta, GA MSA",2007,1550291,155,26,57
+"Atlanta-Sandy Springs-Alpharetta, GA MSA",2008,1574340,171,31,66
+"Atlanta-Sandy Springs-Alpharetta, GA MSA",2009,1596169,133,40,40
+"Atlanta-Sandy Springs-Alpharetta, GA MSA",2010,1612474,166,46,107
+"Atlanta-Sandy Springs-Alpharetta, GA MSA",2011,1649492,156,61,96
+"Atlanta-Sandy Springs-Alpharetta, GA MSA",2012,1684862,154,50,58
+"Atlanta-Sandy Springs-Alpharetta, GA MSA",2013,1697633,167,49,81
+"Atlanta-Sandy Springs-Alpharetta, GA MSA",2014,1718480,208,31,69
+"Atlanta-Sandy Springs-Alpharetta, GA MSA",2015,1745433,236,89,72
+"Atlanta-Sandy Springs-Alpharetta, GA MSA",2016,1763657,260,87,53
+"Atlanta-Sandy Springs-Alpharetta, GA MSA",2017,1794676,260,215,147
+"Atlanta-Sandy Springs-Alpharetta, GA MSA",2018,1806672,281,229,160
+"Atlanta-Sandy Springs-Alpharetta, GA MSA",2019,1823234,271,225,151
+"Atlanta-Sandy Springs-Alpharetta, GA MSA",2020,1839411,339,290,224
+"Austin-Round Rock-Georgetown, TX MSA",2007,955399,111,10,20
+"Austin-Round Rock-Georgetown, TX MSA",2008,980699,82,13,23
+"Austin-Round Rock-Georgetown, TX MSA",2009,1006503,120,95,77
+"Austin-Round Rock-Georgetown, TX MSA",2010,1024266,122,98,84
+"Austin-Round Rock-Georgetown, TX MSA",2011,1063130,155,136,69
+"Austin-Round Rock-Georgetown, TX MSA",2012,1095584,158,140,13
+"Austin-Round Rock-Georgetown, TX MSA",2013,1120954,158,10,14
+"Austin-Round Rock-Georgetown, TX MSA",2014,1151145,134,16,16
+"Austin-Round Rock-Georgetown, TX MSA",2015,1176558,139,12,11
+"Austin-Round Rock-Georgetown, TX MSA",2016,1199323,149,125,14
+"Austin-Round Rock-Georgetown, TX MSA",2017,1226698,148,125,13
+"Austin-Round Rock-Georgetown, TX MSA",2018,1248743,163,15,20
+"Austin-Round Rock-Georgetown, TX MSA",2019,1273954,170,148,119
+"Austin-Round Rock-Georgetown, TX MSA",2020,1300503,221,193,167
+"Baltimore-Columbia-Towson, MD MSA",2007,1470222,309,21,82
+"Baltimore-Columbia-Towson, MD MSA",2008,1470351,225,36,96
+"Baltimore-Columbia-Towson, MD MSA",2009,1476670,278,35,78
+"Baltimore-Columbia-Towson, MD MSA",2010,1484381,206,37,81
+"Baltimore-Columbia-Towson, MD MSA",2011,1490726,196,42,77
+"Baltimore-Columbia-Towson, MD MSA",2012,1502480,255,72,80
+"Baltimore-Columbia-Towson, MD MSA",2013,1512185,264,70,78
+"Baltimore-Columbia-Towson, MD MSA",2014,1527223,342,67,78
+"Baltimore-Columbia-Towson, MD MSA",2015,1531384,406,122,88
+"Baltimore-Columbia-Towson, MD MSA",2016,1522713,656,149,95
+"Baltimore-Columbia-Towson, MD MSA",2017,1524404,732,190,104
+"Baltimore-Columbia-Towson, MD MSA",2018,1511803,834,235,116
+"Baltimore-Columbia-Towson, MD MSA",2019,1502817,899,224,141
+"Baltimore-Columbia-Towson, MD MSA",2020,1495743,1076,394,162
+"Birmingham-Hoover, AL MSA",2007,918002,147,36,56
+"Birmingham-Hoover, AL MSA",2008,926267,150,102,70
+"Birmingham-Hoover, AL MSA",2009,934158,178,42,49
+"Birmingham-Hoover, AL MSA",2010,937144,119,41,53
+"Birmingham-Hoover, AL MSA",2011,941265,167,41,40
+"Birmingham-Hoover, AL MSA",2012,946187,166,101,23
+"Birmingham-Hoover, AL MSA",2013,949967,186,45,24
+"Birmingham-Hoover, AL MSA",2014,954145,297,62,41
+"Birmingham-Hoover, AL MSA",2015,956154,253,43,25
+"Birmingham-Hoover, AL MSA",2016,958162,331,53,45
+"Birmingham-Hoover, AL MSA",2017,961001,341,240,74
+"Birmingham-Hoover, AL MSA",2018,963697,322,215,107
+"Birmingham-Hoover, AL MSA",2019,965787,330,234,100
+"Birmingham-Hoover, AL MSA",2020,967509,443,329,119
+"Boston-Cambridge-Newton, MA-NH MSA",2007,693368,152,208,44
+"Boston-Cambridge-Newton, MA-NH MSA",2008,702201,112,223,90
+"Boston-Cambridge-Newton, MA-NH MSA",2009,716214,147,42,18
+"Boston-Cambridge-Newton, MA-NH MSA",2010,722023,103,31,24
+"Boston-Cambridge-Newton, MA-NH MSA",2011,730932,129,309,129
+"Boston-Cambridge-Newton, MA-NH MSA",2012,744426,114,313,176
+"Boston-Cambridge-Newton, MA-NH MSA",2013,755503,147,162,55
+"Boston-Cambridge-Newton, MA-NH MSA",2014,767254,146,177,59
+"Boston-Cambridge-Newton, MA-NH MSA",2015,778121,201,132,52
+"Boston-Cambridge-Newton, MA-NH MSA",2016,784230,284,162,84
+"Boston-Cambridge-Newton, MA-NH MSA",2017,797939,293,174,47
+"Boston-Cambridge-Newton, MA-NH MSA",2018,807252,257,186,102
+"Boston-Cambridge-Newton, MA-NH MSA",2019,803907,261,237,75
+"Boston-Cambridge-Newton, MA-NH MSA",2020,801582,329,302,86
+"Buffalo-Cheektowaga, NY MSA",2007,1137678,107,95,78
+"Buffalo-Cheektowaga, NY MSA",2008,1136364,124,28,67
+"Buffalo-Cheektowaga, NY MSA",2009,1195309,117,274,92
+"Buffalo-Cheektowaga, NY MSA",2010,1135509,114,23,109
+"Buffalo-Cheektowaga, NY MSA",2011,1134039,140,211,80
+"Buffalo-Cheektowaga, NY MSA",2012,1134210,130,269,130
+"Buffalo-Cheektowaga, NY MSA",2013,1134115,181,228,85
+"Buffalo-Cheektowaga, NY MSA",2014,1136360,191,187,99
+"Buffalo-Cheektowaga, NY MSA",2015,1194167,356,285,93
+"Buffalo-Cheektowaga, NY MSA",2016,1191286,377,354,121
+"Buffalo-Cheektowaga, NY MSA",2017,1194812,356,384,271
+"Buffalo-Cheektowaga, NY MSA",2018,1187663,305,498,348
+"Buffalo-Cheektowaga, NY MSA",2019,1225122,272,216,144
+"Buffalo-Cheektowaga, NY MSA",2020,1182631,397,356,180
+"Charlotte-Concord-Gastonia, NC-SC MSA",2007,1234217,133,94,113
+"Charlotte-Concord-Gastonia, NC-SC MSA",2008,1266743,148,90,130
+"Charlotte-Concord-Gastonia, NC-SC MSA",2009,1290372,149,116,75
+"Charlotte-Concord-Gastonia, NC-SC MSA",2010,1223792,134,65,84
+"Charlotte-Concord-Gastonia, NC-SC MSA",2011,1327825,152,99,107
+"Charlotte-Concord-Gastonia, NC-SC MSA",2012,1353867,176,206,57
+"Charlotte-Concord-Gastonia, NC-SC MSA",2013,1377184,153,107,96
+"Charlotte-Concord-Gastonia, NC-SC MSA",2014,1400571,189,128,93
+"Charlotte-Concord-Gastonia, NC-SC MSA",2015,1344391,188,214,142
+"Charlotte-Concord-Gastonia, NC-SC MSA",2016,1450112,282,316,144
+"Charlotte-Concord-Gastonia, NC-SC MSA",2017,1476756,285,228,162
+"Charlotte-Concord-Gastonia, NC-SC MSA",2018,1498162,291,234,184
+"Charlotte-Concord-Gastonia, NC-SC MSA",2019,1518943,272,239,139
+"Charlotte-Concord-Gastonia, NC-SC MSA",2020,1542645,347,314,182
+"Chicago-Naperville-Elgin, IL-IN-WI MSA",2007,8219573,794,1458,545
+"Chicago-Naperville-Elgin, IL-IN-WI MSA",2008,8252073,859,2020,729
+"Chicago-Naperville-Elgin, IL-IN-WI MSA",2009,8289812,854,706,475
+"Chicago-Naperville-Elgin, IL-IN-WI MSA",2010,8316650,814,616,440
+"Chicago-Naperville-Elgin, IL-IN-WI MSA",2011,8357284,865,647,489
+"Chicago-Naperville-Elgin, IL-IN-WI MSA",2012,8374608,1007,730,498
+"Chicago-Naperville-Elgin, IL-IN-WI MSA",2013,8389726,966,712,459
+"Chicago-Naperville-Elgin, IL-IN-WI MSA",2014,8404358,984,726,485
+"Chicago-Naperville-Elgin, IL-IN-WI MSA",2015,8401315,1088,882,575
+"Chicago-Naperville-Elgin, IL-IN-WI MSA",2016,8364162,1609,1396,701
+"Chicago-Naperville-Elgin, IL-IN-WI MSA",2017,8381361,1829,1688,258
+"Chicago-Naperville-Elgin, IL-IN-WI MSA",2018,8345010,1761,1609,673
+"Chicago-Naperville-Elgin, IL-IN-WI MSA",2019,8300609,1884,1748,670
+"Chicago-Naperville-Elgin, IL-IN-WI MSA",2020,8244982,2501,2353,924
+"Cincinnati, OH-KY-IN MSA",2007,801815,118,547,133
+"Cincinnati, OH-KY-IN MSA",2008,799840,133,804,171
+"Cincinnati, OH-KY-IN MSA",2009,802149,91,19,12
+"Cincinnati, OH-KY-IN MSA",2010,802374,132,14,10
+"Cincinnati, OH-KY-IN MSA",2011,800362,185,19,14
+"Cincinnati, OH-KY-IN MSA",2012,802038,186,29,12
+"Cincinnati, OH-KY-IN MSA",2013,804520,246,20,13
+"Cincinnati, OH-KY-IN MSA",2014,806631,264,10,10
+"Cincinnati, OH-KY-IN MSA",2015,807598,363,40,15
+"Cincinnati, OH-KY-IN MSA",2016,809099,342,43,19
+"Cincinnati, OH-KY-IN MSA",2017,813822,468,10,80
+"Cincinnati, OH-KY-IN MSA",2018,816684,386,15,81
+"Cincinnati, OH-KY-IN MSA",2019,817473,382,353,61
+"Cincinnati, OH-KY-IN MSA",2020,817985,388,366,102
+"Cleveland-Elyria, OH MSA",2007,1301540,163,56,24
+"Cleveland-Elyria, OH MSA",2008,1291479,183,55,29
+"Cleveland-Elyria, OH MSA",2009,1285082,146,81,13
+"Cleveland-Elyria, OH MSA",2010,1280122,191,76,27
+"Cleveland-Elyria, OH MSA",2011,1270294,238,18,121
+"Cleveland-Elyria, OH MSA",2012,1265111,252,23,141
+"Cleveland-Elyria, OH MSA",2013,1263154,286,40,113
+"Cleveland-Elyria, OH MSA",2014,1259828,290,46,15
+"Cleveland-Elyria, OH MSA",2015,1255921,306,18,134
+"Cleveland-Elyria, OH MSA",2016,1249352,576,14,137
+"Cleveland-Elyria, OH MSA",2017,1248514,630,11,168
+"Cleveland-Elyria, OH MSA",2018,1243857,478,16,142
+"Cleveland-Elyria, OH MSA",2019,1235072,505,476,164
+"Cleveland-Elyria, OH MSA",2020,1227883,511,489,197
+"Columbus, OH MSA",2007,1127174,216,10,13
+"Columbus, OH MSA",2008,1141183,205,19,13
+"Columbus, OH MSA",2009,1155408,135,28,12
+"Columbus, OH MSA",2010,1163414,242,10,10
+"Columbus, OH MSA",2011,1178799,250,26,14
+"Columbus, OH MSA",2012,1195537,242,29,18
+"Columbus, OH MSA",2013,1212263,228,16,13
+"Columbus, OH MSA",2014,1231393,238,34,11
+"Columbus, OH MSA",2015,1251722,322,28,122
+"Columbus, OH MSA",2016,1264518,356,54,12
+"Columbus, OH MSA",2017,1291981,469,11,118
+"Columbus, OH MSA",2018,1310300,533,12,123
+"Columbus, OH MSA",2019,1316756,595,547,133
+"Columbus, OH MSA",2020,1324624,873,804,171
+"Dallas-Fort Worth-Arlington, TX MSA",2007,4713378,427,334,206
+"Dallas-Fort Worth-Arlington, TX MSA",2008,4913795,378,362,279
+"Dallas-Fort Worth-Arlington, TX MSA",2009,5012049,468,364,216
+"Dallas-Fort Worth-Arlington, TX MSA",2010,5076441,443,336,284
+"Dallas-Fort Worth-Arlington, TX MSA",2011,5196431,519,411,284
+"Dallas-Fort Worth-Arlington, TX MSA",2012,5288350,551,418,295
+"Dallas-Fort Worth-Arlington, TX MSA",2013,5368068,485,369,275
+"Dallas-Fort Worth-Arlington, TX MSA",2014,5472403,641,532,321
+"Dallas-Fort Worth-Arlington, TX MSA",2015,5576052,588,461,365
+"Dallas-Fort Worth-Arlington, TX MSA",2016,5660882,675,550,447
+"Dallas-Fort Worth-Arlington, TX MSA",2017,5775689,637,542,410
+"Dallas-Fort Worth-Arlington, TX MSA",2018,5727849,622,513,473
+"Dallas-Fort Worth-Arlington, TX MSA",2019,5915639,660,537,508
+"Dallas-Fort Worth-Arlington, TX MSA",2020,5979502,917,791,646
+"Denver-Aurora-Lakewood, CO MSA",2007,2601696,461,484,575
+"Denver-Aurora-Lakewood, CO MSA",2008,2372957,447,426,467
+"Denver-Aurora-Lakewood, CO MSA",2009,2694409,480,461,621
+"Denver-Aurora-Lakewood, CO MSA",2010,2728339,389,472,591
+"Denver-Aurora-Lakewood, CO MSA",2011,2787788,483,533,596
+"Denver-Aurora-Lakewood, CO MSA",2012,2838300,461,544,695
+"Denver-Aurora-Lakewood, CO MSA",2013,2953038,493,510,473
+"Denver-Aurora-Lakewood, CO MSA",2014,2949875,501,504,427
+"Denver-Aurora-Lakewood, CO MSA",2015,3012261,462,490,623
+"Denver-Aurora-Lakewood, CO MSA",2016,3117539,509,716,766
+"Denver-Aurora-Lakewood, CO MSA",2017,3083266,531,426,385
+"Denver-Aurora-Lakewood, CO MSA",2018,3197929,556,473,420
+"Denver-Aurora-Lakewood, CO MSA",2019,3231918,569,487,684
+"Denver-Aurora-Lakewood, CO MSA",2020,3256313,859,726,858
+"Detroit-Warren-Dearborn, MI MSA",2007,3936557,734,80,49
+"Detroit-Warren-Dearborn, MI MSA",2008,3902460,786,64,33
+"Detroit-Warren-Dearborn, MI MSA",2009,3877861,878,66,35
+"Detroit-Warren-Dearborn, MI MSA",2010,3863924,825,88,46
+"Detroit-Warren-Dearborn, MI MSA",2011,3854386,796,61,70
+"Detroit-Warren-Dearborn, MI MSA",2012,3860405,786,60,40
+"Detroit-Warren-Dearborn, MI MSA",2013,3861682,903,87,39
+"Detroit-Warren-Dearborn, MI MSA",2014,3862784,1016,82,74
+"Detroit-Warren-Dearborn, MI MSA",2015,3866479,1157,249,124
+"Detroit-Warren-Dearborn, MI MSA",2016,3861066,1370,345,160
+"Detroit-Warren-Dearborn, MI MSA",2017,3875827,1578,455,219
+"Detroit-Warren-Dearborn, MI MSA",2018,3887853,1467,427,158
+"Detroit-Warren-Dearborn, MI MSA",2019,3880899,1300,972,418
+"Detroit-Warren-Dearborn, MI MSA",2020,3864873,1445,1091,493
+"Fresno, CA MSA",2007,1042000,117,261,151
+"Fresno, CA MSA",2008,1057989,109,281,164
+"Fresno, CA MSA",2009,921478,120,93,116
+"Fresno, CA MSA",2010,1081315,131,455,179
+"Fresno, CA MSA",2011,1095829,121,129,124
+"Fresno, CA MSA",2012,1100113,111,162,131
+"Fresno, CA MSA",2013,1107661,120,192,154
+"Fresno, CA MSA",2014,1120522,159,268,189
+"Fresno, CA MSA",2015,1129859,181,38,43
+"Fresno, CA MSA",2016,1134612,172,921,1304
+"Fresno, CA MSA",2017,1146145,156,1194,1293
+"Fresno, CA MSA",2018,1152072,140,1965,1533
+"Fresno, CA MSA",2019,1156428,187,147,156
+"Fresno, CA MSA",2020,1158679,220,180,183
+"Houston-The Woodlands-Sugar Land, TX MSA",2007,927980,93,77,31
+"Houston-The Woodlands-Sugar Land, TX MSA",2008,972775,79,25,27
+"Houston-The Woodlands-Sugar Land, TX MSA",2009,1014966,89,79,30
+"Houston-The Woodlands-Sugar Land, TX MSA",2010,1041121,76,54,31
+"Houston-The Woodlands-Sugar Land, TX MSA",2011,1078687,88,62,38
+"Houston-The Woodlands-Sugar Land, TX MSA",2012,1112340,69,49,37
+"Houston-The Woodlands-Sugar Land, TX MSA",2013,1151502,72,56,55
+"Houston-The Woodlands-Sugar Land, TX MSA",2014,1204292,83,62,55
+"Houston-The Woodlands-Sugar Land, TX MSA",2015,1253646,96,71,63
+"Houston-The Woodlands-Sugar Land, TX MSA",2016,1297440,121,96,65
+"Houston-The Woodlands-Sugar Land, TX MSA",2017,1335762,144,129,64
+"Houston-The Woodlands-Sugar Land, TX MSA",2018,1378783,128,102,70
+"Houston-The Woodlands-Sugar Land, TX MSA",2019,1419079,149,121,71
+"Houston-The Woodlands-Sugar Land, TX MSA",2020,1466057,192,170,91
+"Indianapolis-Carmel-Anderson, IN MSA",2007,883591,131,59,49
+"Indianapolis-Carmel-Anderson, IN MSA",2008,889504,153,12,17
+"Indianapolis-Carmel-Anderson, IN MSA",2009,898394,145,152,37
+"Indianapolis-Carmel-Anderson, IN MSA",2010,903393,163,124,52
+"Indianapolis-Carmel-Anderson, IN MSA",2011,911296,164,139,61
+"Indianapolis-Carmel-Anderson, IN MSA",2012,918977,195,160,72
+"Indianapolis-Carmel-Anderson, IN MSA",2013,928281,212,28,12
+"Indianapolis-Carmel-Anderson, IN MSA",2014,934243,250,47,27
+"Indianapolis-Carmel-Anderson, IN MSA",2015,939020,257,46,25
+"Indianapolis-Carmel-Anderson, IN MSA",2016,941229,326,34,27
+"Indianapolis-Carmel-Anderson, IN MSA",2017,950082,374,51,24
+"Indianapolis-Carmel-Anderson, IN MSA",2018,954670,347,49,20
+"Indianapolis-Carmel-Anderson, IN MSA",2019,964582,386,354,140
+"Indianapolis-Carmel-Anderson, IN MSA",2020,966183,604,572,189
+"Jacksonville, FL MSA",2007,1105258,188,405,198
+"Jacksonville, FL MSA",2008,1114283,160,471,195
+"Jacksonville, FL MSA",2009,1121567,190,479,245
+"Jacksonville, FL MSA",2010,1128442,193,524,289
+"Jacksonville, FL MSA",2011,1137274,193,600,278
+"Jacksonville, FL MSA",2012,1148576,225,815,330
+"Jacksonville, FL MSA",2013,1157964,199,251,137
+"Jacksonville, FL MSA",2014,1097496,182,147,154
+"Jacksonville, FL MSA",2015,1116977,224,26,166
+"Jacksonville, FL MSA",2016,1215188,508,461,112
+"Jacksonville, FL MSA",2017,1232885,538,812,344
+"Jacksonville, FL MSA",2018,1252085,396,364,190
+"Jacksonville, FL MSA",2019,1265632,478,443,162
+"Jacksonville, FL MSA",2020,1279611,658,616,201
+"Kansas City, MO-KS MSA",2007,523879,46,20,26
+"Kansas City, MO-KS MSA",2008,532175,40,25,25
+"Kansas City, MO-KS MSA",2009,539396,41,22,26
+"Kansas City, MO-KS MSA",2010,544179,40,22,27
+"Kansas City, MO-KS MSA",2011,552991,52,28,26
+"Kansas City, MO-KS MSA",2012,559913,47,28,24
+"Kansas City, MO-KS MSA",2013,566933,57,35,27
+"Kansas City, MO-KS MSA",2014,574272,58,36,44
+"Kansas City, MO-KS MSA",2015,580159,46,27,48
+"Kansas City, MO-KS MSA",2016,584451,61,41,32
+"Kansas City, MO-KS MSA",2017,591178,55,35,40
+"Kansas City, MO-KS MSA",2018,597555,62,42,38
+"Kansas City, MO-KS MSA",2019,602401,69,49,45
+"Kansas City, MO-KS MSA",2020,607220,78,62,71
+"Las Vegas-Henderson-Paradise, NV MSA",2007,1867817,387,306,148
+"Las Vegas-Henderson-Paradise, NV MSA",2008,1912349,368,289,143
+"Las Vegas-Henderson-Paradise, NV MSA",2009,1939407,398,329,185
+"Las Vegas-Henderson-Paradise, NV MSA",2010,1951269,390,320,205
+"Las Vegas-Henderson-Paradise, NV MSA",2011,1969975,458,379,10
+"Las Vegas-Henderson-Paradise, NV MSA",2012,2000759,428,348,202
+"Las Vegas-Henderson-Paradise, NV MSA",2013,2027868,445,351,202
+"Las Vegas-Henderson-Paradise, NV MSA",2014,2069681,407,331,230
+"Las Vegas-Henderson-Paradise, NV MSA",2015,2114801,444,371,10
+"Las Vegas-Henderson-Paradise, NV MSA",2016,2155664,481,391,294
+"Las Vegas-Henderson-Paradise, NV MSA",2017,2204079,478,378,298
+"Las Vegas-Henderson-Paradise, NV MSA",2018,2231647,508,424,353
+"Las Vegas-Henderson-Paradise, NV MSA",2019,2266715,476,384,346
+"Las Vegas-Henderson-Paradise, NV MSA",2020,2315963,626,556,445
+"Los Angeles-Long Beach-Anaheim, CA MSA",2007,13596611,1193,291,256
+"Los Angeles-Long Beach-Anaheim, CA MSA",2008,13667010,1156,463,319
+"Los Angeles-Long Beach-Anaheim, CA MSA",2009,13761715,1234,306,230
+"Los Angeles-Long Beach-Anaheim, CA MSA",2010,13826683,1148,305,224
+"Los Angeles-Long Beach-Anaheim, CA MSA",2011,13953629,1168,348,263
+"Los Angeles-Long Beach-Anaheim, CA MSA",2012,14065850,1186,472,278
+"Los Angeles-Long Beach-Anaheim, CA MSA",2013,14147635,1369,239,270
+"Los Angeles-Long Beach-Anaheim, CA MSA",2014,14287489,1292,323,311
+"Los Angeles-Long Beach-Anaheim, CA MSA",2015,14370795,1306,140,149
+"Los Angeles-Long Beach-Anaheim, CA MSA",2016,14341068,1451,146,187
+"Los Angeles-Long Beach-Anaheim, CA MSA",2017,14390960,1539,71,99
+"Los Angeles-Long Beach-Anaheim, CA MSA",2018,14324280,1657,1089,1389
+"Los Angeles-Long Beach-Anaheim, CA MSA",2019,14242020,1918,1659,1778
+"Los Angeles-Long Beach-Anaheim, CA MSA",2020,14131557,3061,2766,2022
+"Louisville/Jefferson County, KY-IN MSA",2007,723040,97,74,56
+"Louisville/Jefferson County, KY-IN MSA",2008,730194,95,78,40
+"Louisville/Jefferson County, KY-IN MSA",2009,736705,86,16,56
+"Louisville/Jefferson County, KY-IN MSA",2010,741096,119,91,62
+"Louisville/Jefferson County, KY-IN MSA",2011,746906,150,129,64
+"Louisville/Jefferson County, KY-IN MSA",2012,750828,186,14,81
+"Louisville/Jefferson County, KY-IN MSA",2013,756832,191,11,73
+"Louisville/Jefferson County, KY-IN MSA",2014,760026,195,161,108
+"Louisville/Jefferson County, KY-IN MSA",2015,763623,222,184,112
+"Louisville/Jefferson County, KY-IN MSA",2016,765352,355,304,101
+"Louisville/Jefferson County, KY-IN MSA",2017,771158,377,339,83
+"Louisville/Jefferson County, KY-IN MSA",2018,770517,298,271,100
+"Louisville/Jefferson County, KY-IN MSA",2019,766757,350,301,103
+"Louisville/Jefferson County, KY-IN MSA",2020,767452,538,509,147
+"Memphis, TN-MS-AR MSA",2007,921119,125,13,10
+"Memphis, TN-MS-AR MSA",2008,920685,111,33,11
+"Memphis, TN-MS-AR MSA",2009,922541,133,25,35
+"Memphis, TN-MS-AR MSA",2010,927644,140,41,14
+"Memphis, TN-MS-AR MSA",2011,935088,102,93,43
+"Memphis, TN-MS-AR MSA",2012,940764,137,121,57
+"Memphis, TN-MS-AR MSA",2013,939465,141,25,93
+"Memphis, TN-MS-AR MSA",2014,938803,152,21,22
+"Memphis, TN-MS-AR MSA",2015,938069,197,32,15
+"Memphis, TN-MS-AR MSA",2016,934603,203,45,20
+"Memphis, TN-MS-AR MSA",2017,936961,211,35,19
+"Memphis, TN-MS-AR MSA",2018,935764,161,50,19
+"Memphis, TN-MS-AR MSA",2019,937166,283,254,83
+"Memphis, TN-MS-AR MSA",2020,936017,461,428,125
+"Miami-Fort Lauderdale-Pompano Beach, FL MSA",2007,5422987,720,410,300
+"Miami-Fort Lauderdale-Pompano Beach, FL MSA",2008,5454633,764,90,87
+"Miami-Fort Lauderdale-Pompano Beach, FL MSA",2009,5504624,756,50,54
+"Miami-Fort Lauderdale-Pompano Beach, FL MSA",2010,5564635,626,216,106
+"Miami-Fort Lauderdale-Pompano Beach, FL MSA",2011,5670125,603,237,115
+"Miami-Fort Lauderdale-Pompano Beach, FL MSA",2012,5762717,581,202,125
+"Miami-Fort Lauderdale-Pompano Beach, FL MSA",2013,5828191,584,150,186
+"Miami-Fort Lauderdale-Pompano Beach, FL MSA",2014,5929819,636,176,225
+"Miami-Fort Lauderdale-Pompano Beach, FL MSA",2015,6012331,820,598,274
+"Miami-Fort Lauderdale-Pompano Beach, FL MSA",2016,6066387,1460,674,305
+"Miami-Fort Lauderdale-Pompano Beach, FL MSA",2017,6158824,1541,523,230
+"Miami-Fort Lauderdale-Pompano Beach, FL MSA",2018,6198782,1145,465,226
+"Miami-Fort Lauderdale-Pompano Beach, FL MSA",2019,6166488,1315,937,405
+"Miami-Fort Lauderdale-Pompano Beach, FL MSA",2020,6173008,1682,1571,651
+"Milwaukee-Waukesha, WI MSA",2007,931453,193,12,21
+"Milwaukee-Waukesha, WI MSA",2008,934752,190,165,11
+"Milwaukee-Waukesha, WI MSA",2009,942668,175,12,10
+"Milwaukee-Waukesha, WI MSA",2010,947735,166,14,10
+"Milwaukee-Waukesha, WI MSA",2011,952532,192,10,11
+"Milwaukee-Waukesha, WI MSA",2012,955205,182,18,17
+"Milwaukee-Waukesha, WI MSA",2013,956023,237,10,20
+"Milwaukee-Waukesha, WI MSA",2014,956406,253,13,29
+"Milwaukee-Waukesha, WI MSA",2015,957735,258,240,114
+"Milwaukee-Waukesha, WI MSA",2016,951448,330,314,140
+"Milwaukee-Waukesha, WI MSA",2017,952085,359,335,159
+"Milwaukee-Waukesha, WI MSA",2018,948201,360,328,163
+"Milwaukee-Waukesha, WI MSA",2019,945726,406,384,162
+"Milwaukee-Waukesha, WI MSA",2020,945016,511,476,206
+"Minneapolis-St Paul-Bloomington, MN-WI MSA",2007,1626190,157,123,22
+"Minneapolis-St Paul-Bloomington, MN-WI MSA",2008,1638063,170,116,56
+"Minneapolis-St Paul-Bloomington, MN-WI MSA",2009,1653311,151,112,145
+"Minneapolis-St Paul-Bloomington, MN-WI MSA",2010,1661065,168,114,144
+"Minneapolis-St Paul-Bloomington, MN-WI MSA",2011,1683127,203,143,149
+"Minneapolis-St Paul-Bloomington, MN-WI MSA",2012,1704728,219,116,158
+"Minneapolis-St Paul-Bloomington, MN-WI MSA",2013,1725492,233,163,184
+"Minneapolis-St Paul-Bloomington, MN-WI MSA",2014,1744719,218,158,197
+"Minneapolis-St Paul-Bloomington, MN-WI MSA",2015,1761282,256,191,217
+"Minneapolis-St Paul-Bloomington, MN-WI MSA",2016,1773132,315,247,76
+"Minneapolis-St Paul-Bloomington, MN-WI MSA",2017,1799998,348,278,221
+"Minneapolis-St Paul-Bloomington, MN-WI MSA",2018,1809638,284,231,261
+"Minneapolis-St Paul-Bloomington, MN-WI MSA",2019,1816164,358,288,301
+"Minneapolis-St Paul-Bloomington, MN-WI MSA",2020,1816311,527,448,359
+"Nashville-Davidson--Murfreesboro--Franklin, TN MSA",2007,605031,93,75,57
+"Nashville-Davidson--Murfreesboro--Franklin, TN MSA",2008,612649,83,17,57
+"Nashville-Davidson--Murfreesboro--Franklin, TN MSA",2009,621008,115,15,85
+"Nashville-Davidson--Murfreesboro--Franklin, TN MSA",2010,626681,106,12,66
+"Nashville-Davidson--Murfreesboro--Franklin, TN MSA",2011,635475,108,14,69
+"Nashville-Davidson--Murfreesboro--Franklin, TN MSA",2012,648295,118,10,12
+"Nashville-Davidson--Murfreesboro--Franklin, TN MSA",2013,658602,133,14,10
+"Nashville-Davidson--Murfreesboro--Franklin, TN MSA",2014,668347,133,16,69
+"Nashville-Davidson--Murfreesboro--Franklin, TN MSA",2015,678889,166,14,10
+"Nashville-Davidson--Murfreesboro--Franklin, TN MSA",2016,684410,231,10,80
+"Nashville-Davidson--Murfreesboro--Franklin, TN MSA",2017,691243,242,13,11
+"Nashville-Davidson--Murfreesboro--Franklin, TN MSA",2018,692587,248,11,11
+"Nashville-Davidson--Murfreesboro--Franklin, TN MSA",2019,694144,342,309,104
+"Nashville-Davidson--Murfreesboro--Franklin, TN MSA",2020,694176,448,429,152
+"New York-Newark-Jersey City, NY-NJ-PA MSA",2007,16580273,1672,2224,985
+"New York-Newark-Jersey City, NY-NJ-PA MSA",2008,17124847,1629,2411,1184
+"New York-Newark-Jersey City, NY-NJ-PA MSA",2009,16071322,1257,1726,503
+"New York-Newark-Jersey City, NY-NJ-PA MSA",2010,17314031,1593,2150,910
+"New York-Newark-Jersey City, NY-NJ-PA MSA",2011,17554443,1905,2077,919
+"New York-Newark-Jersey City, NY-NJ-PA MSA",2012,17562348,2115,1282,1147
+"New York-Newark-Jersey City, NY-NJ-PA MSA",2013,17670887,2170,2293,945
+"New York-Newark-Jersey City, NY-NJ-PA MSA",2014,17929016,2203,2426,1080
+"New York-Newark-Jersey City, NY-NJ-PA MSA",2015,18011360,2520,2237,1004
+"New York-Newark-Jersey City, NY-NJ-PA MSA",2016,17985010,3529,2669,1033
+"New York-Newark-Jersey City, NY-NJ-PA MSA",2017,18133853,3905,2268,937
+"New York-Newark-Jersey City, NY-NJ-PA MSA",2018,17814760,3794,2387,917
+"New York-Newark-Jersey City, NY-NJ-PA MSA",2019,17733292,3765,3411,1347
+"New York-Newark-Jersey City, NY-NJ-PA MSA",2020,17644603,4519,4169,1538
+"Oklahoma City, OK MSA",2007,1043919,189,41,100
+"Oklahoma City, OK MSA",2008,948274,149,33,24
+"Oklahoma City, OK MSA",2009,1076584,179,23,48
+"Oklahoma City, OK MSA",2010,1089929,210,46,45
+"Oklahoma City, OK MSA",2011,1113144,199,57,33
+"Oklahoma City, OK MSA",2012,1129979,251,40,43
+"Oklahoma City, OK MSA",2013,1150708,243,194,143
+"Oklahoma City, OK MSA",2014,1165705,230,166,162
+"Oklahoma City, OK MSA",2015,1184700,213,181,163
+"Oklahoma City, OK MSA",2016,1198157,238,201,177
+"Oklahoma City, OK MSA",2017,1207525,229,182,195
+"Oklahoma City, OK MSA",2018,1218698,209,158,162
+"Oklahoma City, OK MSA",2019,1229754,213,156,182
+"Oklahoma City, OK MSA",2020,1244299,251,203,243
+"Orlando-Kissimmee-Sanford, FL MSA",2007,1767956,202,254,189
+"Orlando-Kissimmee-Sanford, FL MSA",2008,1793835,209,423,210
+"Orlando-Kissimmee-Sanford, FL MSA",2009,1816406,224,392,270
+"Orlando-Kissimmee-Sanford, FL MSA",2010,1837359,260,89,87
+"Orlando-Kissimmee-Sanford, FL MSA",2011,1870341,257,388,263
+"Orlando-Kissimmee-Sanford, FL MSA",2012,1920488,228,109,86
+"Orlando-Kissimmee-Sanford, FL MSA",2013,1959812,216,129,97
+"Orlando-Kissimmee-Sanford, FL MSA",2014,2005728,287,190,108
+"Orlando-Kissimmee-Sanford, FL MSA",2015,2061263,315,89,144
+"Orlando-Kissimmee-Sanford, FL MSA",2016,2105861,369,134,176
+"Orlando-Kissimmee-Sanford, FL MSA",2017,2163814,421,357,262
+"Orlando-Kissimmee-Sanford, FL MSA",2018,2216467,456,500,341
+"Orlando-Kissimmee-Sanford, FL MSA",2019,2241029,443,397,173
+"Orlando-Kissimmee-Sanford, FL MSA",2020,2263882,595,557,203
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2007,6871235,1105,966,459
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2008,6786216,1143,991,426
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2009,6365934,1086,1399,378
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2010,6918275,1215,986,392
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2011,7114183,1489,2144,623
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2012,7148089,1561,2205,616
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2013,7171018,1558,1213,410
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2014,7195071,1724,1301,435
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2015,7217891,1904,1438,531
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2016,7218744,2550,1531,626
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2017,7255520,3310,1837,567
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2018,7254922,3280,1891,605
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2019,7263071,3302,3063,598
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2020,7272924,3419,3194,732
+"Phoenix-Mesa-Chandler, AZ MSA",2007,4018128,639,596,715
+"Phoenix-Mesa-Chandler, AZ MSA",2008,4106372,573,28,107
+"Phoenix-Mesa-Chandler, AZ MSA",2009,4153609,645,873,39
+"Phoenix-Mesa-Chandler, AZ MSA",2010,4192887,694,999,35
+"Phoenix-Mesa-Chandler, AZ MSA",2011,4263236,701,1130,63
+"Phoenix-Mesa-Chandler, AZ MSA",2012,4329534,730,1546,789
+"Phoenix-Mesa-Chandler, AZ MSA",2013,4398762,824,42,116
+"Phoenix-Mesa-Chandler, AZ MSA",2014,4489109,770,29,132
+"Phoenix-Mesa-Chandler, AZ MSA",2015,4574531,826,596,741
+"Phoenix-Mesa-Chandler, AZ MSA",2016,4661537,942,47,127
+"Phoenix-Mesa-Chandler, AZ MSA",2017,4737270,1091,1122,171
+"Phoenix-Mesa-Chandler, AZ MSA",2018,4857962,1233,1347,236
+"Phoenix-Mesa-Chandler, AZ MSA",2019,4948203,1375,1178,68
+"Phoenix-Mesa-Chandler, AZ MSA",2020,5059909,1809,1614,789
+"Pittsburgh, PA MSA",2007,1222482,207,12,56
+"Pittsburgh, PA MSA",2008,1221071,224,10,84
+"Pittsburgh, PA MSA",2009,1222171,222,195,99
+"Pittsburgh, PA MSA",2010,1223348,237,213,86
+"Pittsburgh, PA MSA",2011,1227066,249,229,81
+"Pittsburgh, PA MSA",2012,1229338,283,258,73
+"Pittsburgh, PA MSA",2013,1231527,273,249,96
+"Pittsburgh, PA MSA",2014,1231255,319,22,101
+"Pittsburgh, PA MSA",2015,1230459,422,15,86
+"Pittsburgh, PA MSA",2016,1225365,635,17,94
+"Pittsburgh, PA MSA",2017,1223048,765,733,100
+"Pittsburgh, PA MSA",2018,1218452,466,22,92
+"Pittsburgh, PA MSA",2019,1216045,528,507,107
+"Pittsburgh, PA MSA",2020,1211358,632,613,121
+"Portland-Vancouver-Hillsboro, OR-WA MSA",2007,1615461,289,107,137
+"Portland-Vancouver-Hillsboro, OR-WA MSA",2008,1644086,263,130,151
+"Portland-Vancouver-Hillsboro, OR-WA MSA",2009,1673656,256,70,79
+"Portland-Vancouver-Hillsboro, OR-WA MSA",2010,1690407,244,53,76
+"Portland-Vancouver-Hillsboro, OR-WA MSA",2011,1721859,281,66,81
+"Portland-Vancouver-Hillsboro, OR-WA MSA",2012,1745215,282,52,69
+"Portland-Vancouver-Hillsboro, OR-WA MSA",2013,1764948,270,90,95
+"Portland-Vancouver-Hillsboro, OR-WA MSA",2014,1790718,258,97,105
+"Portland-Vancouver-Hillsboro, OR-WA MSA",2015,1824115,271,67,127
+"Portland-Vancouver-Hillsboro, OR-WA MSA",2016,1849563,292,97,159
+"Portland-Vancouver-Hillsboro, OR-WA MSA",2017,1871155,323,183,238
+"Portland-Vancouver-Hillsboro, OR-WA MSA",2018,1891432,318,205,293
+"Portland-Vancouver-Hillsboro, OR-WA MSA",2019,1902688,360,276,371
+"Portland-Vancouver-Hillsboro, OR-WA MSA",2020,1916016,490,361,424
+"Providence-Warwick, RI-MA MSA",2007,923520,131,93,43
+"Providence-Warwick, RI-MA MSA",2008,1004335,185,93,69
+"Providence-Warwick, RI-MA MSA",2009,920675,154,116,58
+"Providence-Warwick, RI-MA MSA",2010,1002692,174,117,83
+"Providence-Warwick, RI-MA MSA",2011,918807,181,89,64
+"Providence-Warwick, RI-MA MSA",2012,919112,188,118,74
+"Providence-Warwick, RI-MA MSA",2013,1002291,243,139,93
+"Providence-Warwick, RI-MA MSA",2014,923755,231,152,71
+"Providence-Warwick, RI-MA MSA",2015,924791,300,96,73
+"Providence-Warwick, RI-MA MSA",2016,1007359,318,196,99
+"Providence-Warwick, RI-MA MSA",2017,1010727,312,255,144
+"Providence-Warwick, RI-MA MSA",2018,1008666,315,398,187
+"Providence-Warwick, RI-MA MSA",2019,1010882,301,270,137
+"Providence-Warwick, RI-MA MSA",2020,1008775,397,368,196
+"Raleigh-Cary, NC MSA",2007,1201596,99,120,82
+"Raleigh-Cary, NC MSA",2008,1115848,100,163,40
+"Raleigh-Cary, NC MSA",2009,1281349,85,48,36
+"Raleigh-Cary, NC MSA",2010,1168580,88,31,30
+"Raleigh-Cary, NC MSA",2011,1338927,104,52,40
+"Raleigh-Cary, NC MSA",2012,1369733,97,62,48
+"Raleigh-Cary, NC MSA",2013,1402774,112,132,49
+"Raleigh-Cary, NC MSA",2014,1293151,114,119,33
+"Raleigh-Cary, NC MSA",2015,1466504,127,80,56
+"Raleigh-Cary, NC MSA",2016,1494799,185,97,59
+"Raleigh-Cary, NC MSA",2017,1528789,217,90,98
+"Raleigh-Cary, NC MSA",2018,1555071,217,86,120
+"Raleigh-Cary, NC MSA",2019,1581725,189,156,116
+"Raleigh-Cary, NC MSA",2020,1608654,303,281,133
+"Richmond, VA MSA",2007,801245,81,60,42
+"Richmond, VA MSA",2008,812289,89,58,51
+"Richmond, VA MSA",2009,821537,76,56,30
+"Richmond, VA MSA",2010,827385,68,48,32
+"Richmond, VA MSA",2011,836255,101,63,50
+"Richmond, VA MSA",2012,949765,87,68,77
+"Richmond, VA MSA",2013,961800,105,76,25
+"Richmond, VA MSA",2014,974194,133,91,64
+"Richmond, VA MSA",2015,984358,146,112,60
+"Richmond, VA MSA",2016,993072,221,154,77
+"Richmond, VA MSA",2017,1004452,251,184,96
+"Richmond, VA MSA",2018,1013839,262,200,80
+"Richmond, VA MSA",2019,1021822,288,265,83
+"Richmond, VA MSA",2020,1062647,400,377,113
+"Riverside-San Bernardino-Ontario, CA MSA",2007,4067344,403,407,424
+"Riverside-San Bernardino-Ontario, CA MSA",2008,4113447,467,691,457
+"Riverside-San Bernardino-Ontario, CA MSA",2009,4160685,475,68,79
+"Riverside-San Bernardino-Ontario, CA MSA",2010,4224851,456,81,91
+"Riverside-San Bernardino-Ontario, CA MSA",2011,4304997,455,379,30
+"Riverside-San Bernardino-Ontario, CA MSA",2012,4350096,506,415,389
+"Riverside-San Bernardino-Ontario, CA MSA",2013,4380878,559,762,731
+"Riverside-San Bernardino-Ontario, CA MSA",2014,4441890,588,1255,807
+"Riverside-San Bernardino-Ontario, CA MSA",2015,4489159,586,345,301
+"Riverside-San Bernardino-Ontario, CA MSA",2016,4527837,598,328,317
+"Riverside-San Bernardino-Ontario, CA MSA",2017,4580670,711,527,336
+"Riverside-San Bernardino-Ontario, CA MSA",2018,4622361,785,639,362
+"Riverside-San Bernardino-Ontario, CA MSA",2019,4650631,778,640,714
+"Riverside-San Bernardino-Ontario, CA MSA",2020,4678371,1298,1141,884
+"Sacramento-Roseville-Folsom, CA MSA",2007,1381161,219,14,14
+"Sacramento-Roseville-Folsom, CA MSA",2008,1394438,268,18,24
+"Sacramento-Roseville-Folsom, CA MSA",2009,1408601,252,15,20
+"Sacramento-Roseville-Folsom, CA MSA",2010,1418788,228,34,37
+"Sacramento-Roseville-Folsom, CA MSA",2011,1436105,232,346,368
+"Sacramento-Roseville-Folsom, CA MSA",2012,1450121,228,599,389
+"Sacramento-Roseville-Folsom, CA MSA",2013,1462131,259,54,65
+"Sacramento-Roseville-Folsom, CA MSA",2014,1482026,268,63,67
+"Sacramento-Roseville-Folsom, CA MSA",2015,1501335,298,364,10
+"Sacramento-Roseville-Folsom, CA MSA",2016,1514460,252,381,352
+"Sacramento-Roseville-Folsom, CA MSA",2017,1530615,258,416,363
+"Sacramento-Roseville-Folsom, CA MSA",2018,1540975,289,656,418
+"Sacramento-Roseville-Folsom, CA MSA",2019,1552058,367,291,236
+"Sacramento-Roseville-Folsom, CA MSA",2020,1559146,323,265,250
+"Salt Lake City, UT MSA",2007,1453293,313,76,61
+"Salt Lake City, UT MSA",2008,1487168,275,106,86
+"Salt Lake City, UT MSA",2009,1521596,309,109,88
+"Salt Lake City, UT MSA",2010,1546219,257,106,94
+"Salt Lake City, UT MSA",2011,1579484,315,161,92
+"Salt Lake City, UT MSA",2012,1604346,351,192,117
+"Salt Lake City, UT MSA",2013,1631612,354,171,103
+"Salt Lake City, UT MSA",2014,1652716,363,194,118
+"Salt Lake City, UT MSA",2015,1682519,394,191,139
+"Salt Lake City, UT MSA",2016,1713653,399,204,159
+"Salt Lake City, UT MSA",2017,1742074,407,277,146
+"Salt Lake City, UT MSA",2018,1774846,385,302,160
+"Salt Lake City, UT MSA",2019,1796672,358,275,157
+"Salt Lake City, UT MSA",2020,1816576,372,290,224
+"San Antonio-New Braunfels, TX MSA",2007,1615210,127,11,12
+"San Antonio-New Braunfels, TX MSA",2008,1651709,165,22,11
+"San Antonio-New Braunfels, TX MSA",2009,1685628,205,20,23
+"San Antonio-New Braunfels, TX MSA",2010,1714773,199,26,14
+"San Antonio-New Braunfels, TX MSA",2011,1756153,267,19,16
+"San Antonio-New Braunfels, TX MSA",2012,1785704,206,15,14
+"San Antonio-New Braunfels, TX MSA",2013,1817610,188,23,16
+"San Antonio-New Braunfels, TX MSA",2014,1855866,198,17,15
+"San Antonio-New Braunfels, TX MSA",2015,1897753,205,28,21
+"San Antonio-New Braunfels, TX MSA",2016,1928680,230,39,35
+"San Antonio-New Braunfels, TX MSA",2017,1958578,220,24,28
+"San Antonio-New Braunfels, TX MSA",2018,1986049,237,37,59
+"San Antonio-New Braunfels, TX MSA",2019,2003554,283,240,239
+"San Antonio-New Braunfels, TX MSA",2020,2026823,301,269,263
+"San Diego-Chula Vista-Carlsbad, CA MSA",2007,2975742,376,54,65
+"San Diego-Chula Vista-Carlsbad, CA MSA",2008,3022116,378,63,67
+"San Diego-Chula Vista-Carlsbad, CA MSA",2009,3061203,377,364,10
+"San Diego-Chula Vista-Carlsbad, CA MSA",2010,3095313,383,381,352
+"San Diego-Chula Vista-Carlsbad, CA MSA",2011,3140069,428,416,363
+"San Diego-Chula Vista-Carlsbad, CA MSA",2012,3177063,434,656,418
+"San Diego-Chula Vista-Carlsbad, CA MSA",2013,3211252,452,291,236
+"San Diego-Chula Vista-Carlsbad, CA MSA",2014,3263431,441,265,250
+"San Diego-Chula Vista-Carlsbad, CA MSA",2015,3299521,450,163,326
+"San Diego-Chula Vista-Carlsbad, CA MSA",2016,3317749,462,258,10
+"San Diego-Chula Vista-Carlsbad, CA MSA",2017,3337685,507,224,351
+"San Diego-Chula Vista-Carlsbad, CA MSA",2018,3343364,521,485,466
+"San Diego-Chula Vista-Carlsbad, CA MSA",2019,3338330,545,442,460
+"San Diego-Chula Vista-Carlsbad, CA MSA",2020,3332427,809,708,520
+"San Francisco-Oakland-Berkeley, CA MSA",2007,2613219,465,799,328
+"San Francisco-Oakland-Berkeley, CA MSA",2008,2650851,404,894,665
+"San Francisco-Oakland-Berkeley, CA MSA",2009,2686603,389,596,513
+"San Francisco-Oakland-Berkeley, CA MSA",2010,2704399,368,821,595
+"San Francisco-Oakland-Berkeley, CA MSA",2011,2735820,424,516,441
+"San Francisco-Oakland-Berkeley, CA MSA",2012,2775697,339,476,459
+"San Francisco-Oakland-Berkeley, CA MSA",2013,2815024,370,362,564
+"San Francisco-Oakland-Berkeley, CA MSA",2014,2865807,370,1332,1526
+"San Francisco-Oakland-Berkeley, CA MSA",2015,2906708,451,1605,1801
+"San Francisco-Oakland-Berkeley, CA MSA",2016,2921408,422,2596,2186
+"San Francisco-Oakland-Berkeley, CA MSA",2017,2949481,385,648,709
+"San Francisco-Oakland-Berkeley, CA MSA",2018,2949141,497,989,762
+"San Francisco-Oakland-Berkeley, CA MSA",2019,2949448,748,659,289
+"San Francisco-Oakland-Berkeley, CA MSA",2020,2922226,983,919,357
+"San Jose-Sunnyvale-Santa Clara, CA MSA",2007,1712026,156,442,460
+"San Jose-Sunnyvale-Santa Clara, CA MSA",2008,1740964,122,708,520
+"San Jose-Sunnyvale-Santa Clara, CA MSA",2009,1765137,117,380,79
+"San Jose-Sunnyvale-Santa Clara, CA MSA",2010,1781642,138,536,109
+"San Jose-Sunnyvale-Santa Clara, CA MSA",2011,1809378,149,119,96
+"San Jose-Sunnyvale-Santa Clara, CA MSA",2012,1837504,156,151,125
+"San Jose-Sunnyvale-Santa Clara, CA MSA",2013,1862041,158,47,51
+"San Jose-Sunnyvale-Santa Clara, CA MSA",2014,1894605,144,78,67
+"San Jose-Sunnyvale-Santa Clara, CA MSA",2015,1918044,146,92,66
+"San Jose-Sunnyvale-Santa Clara, CA MSA",2016,1919402,162,112,59
+"San Jose-Sunnyvale-Santa Clara, CA MSA",2017,1938153,173,74,91
+"San Jose-Sunnyvale-Santa Clara, CA MSA",2018,1937570,178,83,86
+"San Jose-Sunnyvale-Santa Clara, CA MSA",2019,1927852,224,183,187
+"San Jose-Sunnyvale-Santa Clara, CA MSA",2020,1907105,308,271,211
+"Seattle-Tacoma-Bellevue, WA MSA",2007,3304467,509,131,167
+"Seattle-Tacoma-Bellevue, WA MSA",2008,3355042,514,154,138
+"Seattle-Tacoma-Bellevue, WA MSA",2009,3414797,512,247,176
+"Seattle-Tacoma-Bellevue, WA MSA",2010,3439809,493,226,209
+"Seattle-Tacoma-Bellevue, WA MSA",2011,3500026,569,151,197
+"Seattle-Tacoma-Bellevue, WA MSA",2012,3552157,526,260,207
+"Seattle-Tacoma-Bellevue, WA MSA",2013,3610105,556,126,87
+"Seattle-Tacoma-Bellevue, WA MSA",2014,3671478,588,49,68
+"Seattle-Tacoma-Bellevue, WA MSA",2015,3733580,607,364,177
+"Seattle-Tacoma-Bellevue, WA MSA",2016,3798902,621,164,168
+"Seattle-Tacoma-Bellevue, WA MSA",2017,3867046,684,547,519
+"Seattle-Tacoma-Bellevue, WA MSA",2018,3939363,751,290,290
+"Seattle-Tacoma-Bellevue, WA MSA",2019,3979845,808,655,598
+"Seattle-Tacoma-Bellevue, WA MSA",2020,4018598,1024,892,693
+"St. Louis, MO-IL MSA",2007,1317348,150,93,58
+"St. Louis, MO-IL MSA",2008,1316286,168,104,55
+"St. Louis, MO-IL MSA",2009,1317460,199,109,63
+"St. Louis, MO-IL MSA",2010,1318248,229,131,65
+"St. Louis, MO-IL MSA",2011,1316761,255,168,61
+"St. Louis, MO-IL MSA",2012,1318610,222,176,72
+"St. Louis, MO-IL MSA",2013,1319860,275,176,86
+"St. Louis, MO-IL MSA",2014,1319295,312,209,85
+"St. Louis, MO-IL MSA",2015,1319047,276,109,127
+"St. Louis, MO-IL MSA",2016,1309985,471,214,118
+"St. Louis, MO-IL MSA",2017,1305352,511,232,121
+"St. Louis, MO-IL MSA",2018,1299783,589,241,124
+"St. Louis, MO-IL MSA",2019,1294781,591,543,127
+"St. Louis, MO-IL MSA",2020,1291665,711,676,169
+"Tampa-St Petersburg-Clearwater, FL MSA",2007,2103310,505,82,55
+"Tampa-St Petersburg-Clearwater, FL MSA",2008,2113231,527,92,62
+"Tampa-St Petersburg-Clearwater, FL MSA",2009,2129380,544,48,120
+"Tampa-St Petersburg-Clearwater, FL MSA",2010,2145768,564,37,132
+"Tampa-St Petersburg-Clearwater, FL MSA",2011,2185173,503,285,113
+"Tampa-St Petersburg-Clearwater, FL MSA",2012,2199065,434,350,121
+"Tampa-St Petersburg-Clearwater, FL MSA",2013,2220626,366,97,50
+"Tampa-St Petersburg-Clearwater, FL MSA",2014,2254396,370,127,77
+"Tampa-St Petersburg-Clearwater, FL MSA",2015,2298877,388,461,207
+"Tampa-St Petersburg-Clearwater, FL MSA",2016,2336968,523,612,243
+"Tampa-St Petersburg-Clearwater, FL MSA",2017,2379203,521,201,95
+"Tampa-St Petersburg-Clearwater, FL MSA",2018,2412168,598,318,123
+"Tampa-St Petersburg-Clearwater, FL MSA",2019,2446964,717,625,297
+"Tampa-St Petersburg-Clearwater, FL MSA",2020,2474759,1022,934,426
+"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2007,1075958,125,59,39
+"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2008,1074277,82,84,56
+"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2009,1077905,102,89,51
+"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2010,1221161,85,120,58
+"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2011,1226397,116,64,66
+"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2012,1238782,114,60,82
+"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2013,1243908,171,139,61
+"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2014,1336429,166,111,80
+"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2015,1341567,211,166,114
+"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2016,1252892,298,253,108
+"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2017,1339829,261,229,134
+"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2018,1445822,275,243,125
+"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2019,1411674,272,239,165
+"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2020,1418683,439,379,181
+"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2007,2440610,198,49,129
+"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2008,2328444,175,64,129
+"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2009,2487555,157,73,116
+"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2010,2397762,158,102,134
+"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2011,2823404,214,134,157
+"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2012,2885451,226,108,153
+"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2013,2939430,251,149,150
+"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2014,2983058,277,192,139
+"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2015,3024487,302,245,175
+"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2016,3046837,527,452,182
+"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2017,3098508,577,505,185
+"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2018,2965632,471,397,185
+"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2019,3174509,569,497,198
+"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2020,3201694,776,694,244
